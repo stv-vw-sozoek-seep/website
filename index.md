@@ -1,6 +1,6 @@
 # The Team
 
-TEAMFOTO
+![](team.jpg)
 
 # NEWS
 
