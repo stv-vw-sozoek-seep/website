@@ -1,6 +1,8 @@
 # The Team
 
-{% include image.html url="/team.jpg" description="Sarah, Daniel, Bernhard, Veronika & Camila" %}
+![](team.jpg)
+ *Sarah, Daniel, Bernhard, 
+ Veronika & Camila*
 
 Check out our [facebook page](https://www.facebook.com/vwsozoekseep/)
 
