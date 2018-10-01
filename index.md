@@ -1,7 +1,6 @@
 # The Team
 
-{% include image.html url="/team.jpg" description="Sarah, Daniel, Bernhard
-Veronika & Camila" %}
+{% include image.html url="/team.jpg" description="Sarah, Daniel, Bernhard, Veronika & Camila" %}
 
 Check out our [facebook page](https://www.facebook.com/vwsozoekseep/)
 
