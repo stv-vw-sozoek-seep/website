@@ -1,6 +1,6 @@
 # The Team
 
-![](team.jpg)
+![Daniel, Sarah, Bernhard, \\Veronika & Camila](team.jpg)
 
 Check out our [facebook page](https://www.facebook.com/vwsozoekseep/)
 
