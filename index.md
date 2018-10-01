@@ -24,4 +24,4 @@ We are excited to meet the new cohort at the welcome event of the Master's in Ec
 
 ### Welcome Event SEEP
 
-Vero introduced us to the new SEEP Students. You can find the presentation [here](./Presentation_welcome_seep_.pdf)
+Vero introduced us to the new SEEP Students. You can find the presentation [here](./Presentation_welcome_seep_.pdf).
