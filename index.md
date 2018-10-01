@@ -1,11 +1,12 @@
 # The Team
 
 ![](team.jpg)
+ 
  <center> 
  
- *Daniel, Sarah, Bernhard,* 
+ Daniel, Sarah, Bernhard,
 
- *Veronika & Camila*
+ Veronika & Camila
 
 </center>
 
