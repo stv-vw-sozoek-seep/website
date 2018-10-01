@@ -1,9 +1,13 @@
 # The Team
 
 ![](team.jpg)
- *Sarah, Daniel, Bernhard, 
- Veronika & Camila*
+ <center> 
+ 
+ *Daniel, Sarah, Bernhard,* 
+ 
+ *Veronika & Camila*
 
+</center>
 Check out our [facebook page](https://www.facebook.com/vwsozoekseep/)
 
 or contact us at stv-vwsozoekseep [at] wu.ac.at
