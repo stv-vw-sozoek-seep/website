@@ -4,11 +4,17 @@
  <center> 
  
  *Daniel, Sarah, Bernhard,* 
+<<<<<<< HEAD
 
  *Veronika & Camila*
 
 </center>
+=======
+ 
+ *Veronika & Camila*
+>>>>>>> 7d644c008b916614481b677889dded3a691fd7a9
 
+</center>
 Check out our [facebook page](https://www.facebook.com/vwsozoekseep/)
 
 or contact us at stv-vwsozoekseep [at] wu.ac.at
