@@ -20,7 +20,7 @@ or contact us at stv-vwsozoekseep [at] wu.ac.at
 
 ### Our report to the Students' Representation at Universities (2018.10.23, German [Sorry!])
 
-Please find our report [here](./1\ Uv\ Bericht\ WS\ 18_19.pdf).
+Please find our report [here](./uv_bericht_ws_18_19.pdf).
 
 ### Welcome Event Master Economics (2018.10.01)
 
