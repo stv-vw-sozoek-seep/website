@@ -4,9 +4,9 @@
  
  <center> 
  
- Daniel, Sarah, Bernhard, <br/>
+ Felix, Clara, Stephanie <br/>
 
- Veronika & Camila
+ Daniel & Jasmin
 
 </center>
 
