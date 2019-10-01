@@ -24,8 +24,8 @@ Please find our report [here](./uv_bericht_ws_18_19.pdf).
 
 ### Welcome Event Master Economics (2019.10.01)
 
-We are excited to meet the new cohort at the welcome event of the Master's in Economics. You can find our presentation [here](./presi.pdf).
+We are excited to meet the new cohort at the welcome event of the Master's in Economics. You can find our presentation [here](./MStv_Welcome_Pres.pdf).
 
 ### Welcome Event SEEP ()
 
-We are excited to meet the new cohort at the welcome event of the SEEP Master. You can find the presentation [here](./Presentation_welcome_seep_.pdf).
+We are excited to meet the new cohort at the welcome event of the SEEP Master. You can find the presentation [here](./MStv_Welcome_Pres.pdf).
