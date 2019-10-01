@@ -18,8 +18,6 @@ or contact us at stv-vwsozoekseep [at] wu.ac.at
 
 ## NEWS
 
-### Our report to the Students' Representation at Universities (2018.10.23, German [Sorry!])
-
 Please find our report [here](./uv_bericht_ws_18_19.pdf).
 
 ### Welcome Event Master Economics (2019.10.01)
@@ -29,3 +27,6 @@ We are excited to meet the new cohort at the welcome event of the Master's in Ec
 ### Welcome Event SEEP ()
 
 We are excited to meet the new cohort at the welcome event of the SEEP Master. You can find the presentation [here](./MStv_Welcome_Pres.pdf).
+
+### Our report to the Students' Representation at Universities (2018.10.23, German [Sorry!])
+
