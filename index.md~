@@ -22,7 +22,7 @@ or contact us at stv-vwsozoekseep [at] wu.ac.at
 
 We are excited to meet the new cohort at the welcome event of the Master's in Economics. You can find our presentation [here](./MStv_Welcome_Pres.pdf).
 
-### Welcome Event SEEP ()
+### Welcome Event SEEP (2019.09.26)
 
 We are excited to meet the new cohort at the welcome event of the SEEP Master. You can find the presentation [here](./MStv_Welcome_Pres.pdf).
 
