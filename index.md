@@ -18,7 +18,7 @@ or contact us at stv-vwsozoekseep [at] wu.ac.at
 
 ## NEWS
 
-## Momentum Junior Fellowship Program
+### Momentum Junior Fellowship Program
 
 The Momentum Institute's Junior Fellowship Program offers the opportunity to write master's and doctoral theses in areas such as work, fiscal policy, environment - with professional and financial support: [Apply now!](https://www.momentum-institut.at/junior-fellowship-themen)
 
