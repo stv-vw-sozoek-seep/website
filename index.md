@@ -18,6 +18,12 @@ or contact us at stv-vwsozoekseep [at] wu.ac.at
 
 ## NEWS
 
+## Momentum Junior Fellowship Program
+
+The Momentum Institute's Junior Fellowship Program offers the opportunity to write master's and doctoral theses in areas such as work, fiscal policy, environment - with professional and financial support: Apply now!
+
+![](fb_momentum_stib.jpg)
+
 ### Punsch & Plenum | Punch & Plenary
 
 It's that time again - we're celebrating the end of the year! We're therefore very happy to invite you to punch and cookies, in our Econ.SocEcon.SEEP Room in D4. There will be punch as long as it lasts - at 19:30 we will go to the Punschstände in front of LC. 
