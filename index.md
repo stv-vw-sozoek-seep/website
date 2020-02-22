@@ -20,6 +20,10 @@ or visit us at the [Master Students' Room](https://campus.wu.ac.at/?campus=1&q=D
 
 ## NEWS
 
+### Standpunkte
+
+Standpunkte (./standpunkte/standpunkte
+
 ### Momentum Junior Fellowship Program
 
 The Momentum Institute's Junior Fellowship Program offers the opportunity to write master's and doctoral theses in areas such as work, fiscal policy, environment - with professional and financial support: [Apply now!](https://www.momentum-institut.at/junior-fellowship-themen)
@@ -41,7 +45,8 @@ We are excited to meet the new cohort at the welcome event of the Master's in Ec
 
 We are excited to meet the new cohort at the welcome event of the SEEP Master. You can find the presentation [here](./MStv_Welcome_Pres.pdf).
 
-### Our report to the Students' Representation at Universities (2018.10.23, German [Sorry!])
+### Our reports to the Students' Representation at Universities
 
-Please find our report [here](./uv_bericht_ws_18_19.pdf).
-
+[WiSe18_19](./uv/uv_bericht_ws_18_19.pdf).
+[WiSe19_20-1](./uv/1UVWise1920.pdf)
+[Wise19_20-2](./uv/2UVWise1920.pdf)
