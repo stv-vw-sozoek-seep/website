@@ -20,9 +20,6 @@ or visit us at the [Master Students' Room](https://campus.wu.ac.at/?campus=1&q=D
 
 ## NEWS
 
-### Standpunkte
-
-Standpunkte (./standpunkte/standpunkte
 
 ### Momentum Junior Fellowship Program
 
@@ -44,6 +41,53 @@ We are excited to meet the new cohort at the welcome event of the Master's in Ec
 ### Welcome Event SEEP (2019.09.26)
 
 We are excited to meet the new cohort at the welcome event of the SEEP Master. You can find the presentation [here](./MStv_Welcome_Pres.pdf).
+
+### Standpunkte
+
+"Nachhaltigkeit." 
+Ausgabe Nummer 15 Oktober 2017  PDF 
+
+**"Die verlorene Ausgabe - Die Standpunkte sind zurück"** 
+Ausgabe Nummer 14 | März 2017 | [PDF](./standpunkte/Standpunkte_14-Aktuell.pdf) 
+
+**"Volldampf Voraus! - Wege aus der Krise"**
+Ausgabe Nummer 13 | April 2015 | [PDF](./standpunkte/Standpunkte13_-_Volldampf_Voraus.pdf) 
+
+**"Mit vielen Brillen - Ökonomie als plurale Wissenschaft"**
+Ausgabe Nummer 12 | Mai 2014 | [PDF](./standpunkte/standpunkte12_05-2014.pdf)
+
+**"Was kostet die Welt? - Wie bewertet man das Unbezahlbare?"**
+Ausgabe Nummer 11 | November 2012 | [PDF](./standpunkte/standpunkte11_11-2012.pdf) 
+
+**"Spaziergang um den Tellerrand - Ökonomische Kritik und Alternativen"**
+Ausgabe Nummer 10 | Februar 2012 | [PDF](./standpunkte/standpunkte10_02-2012.pdf) 
+
+**"Backe, Backe Kuchen - die Ökonomie hat gerufen: Rezepte zur Zukunft"**
+Ausgabe Nummer 9 | Oktober 2011 | [PDF](./standpunkte/standpunkte9_10-2011.pdf) 
+
+**"Schmerzfrei Wachsen - Nachhaltigkeit aus ökonomischer Perspektive"**
+Ausgabe Nummer 8 | März 2011 | [PDF](./standpunkte/standpunkte8_03-2011.pdf) 
+
+**"Business Needs Banking - Banken, Geld, Kredite: Eine unendliche Geschichte"**
+Ausgabe Nummer 7 | Juni 2010 | [PDF](./standpunkte/standpunkte7_06-2010.pdf) 
+
+**"Bachelor of Multiple Choice - Bildung und Ökonomie"**
+Ausgabe Nummer 6 | März 2010 | [PDF](./standpunkte/standpunkte6-03-2010.pdf) 
+
+**"Der Turm stürzt ein! - Schwerpunkt Finanz- und Wirtschaftskrise"**
+Ausgabe Nummer 5 | Jänner 2009 | [PDF](./standpunkte/standpunkte5_01-2009.pdf) 
+
+**"Eine Frage der Verteilung - Aspekte der Einkommensverteilung in Österreich"**
+Ausgabe Nummer 4 | Juni 2008 | [PDF](./standpunkte/standpunkte4_06-2008.pdf) 
+
+**"Wealth of Nations? - Möglichkeiten und Hindernisse der Finanzierung internationaler Entwicklung"**
+Ausgabe Nummer 3 | März 2008 | [PDF](./standpunkte/standpunkte3_03-2008.pdf) 
+
+**"Wohin geht die EU? - Überlegungen zu ökonomischen und politischen Herausforderungen der europäischen Integration"**
+Ausgabe Nummer 2 | November 2007 | [PDF](./standpunkte/standpunkte2_11-2007.pdf) 
+
+**"Sind Österreichs Reiche zu arm? - Die Debatte um die Abschaffung der Erbschaftssteuer"**
+Ausgabe Nummer 1 | Mai 2007 | [PDF](./standpunkte/standpunkte1_05-2007.pdf)
 
 ### Our reports to the Students' Representation at Universities
 

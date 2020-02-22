@@ -89,8 +89,8 @@ Ausgabe Nummer 2 | November 2007 | [PDF](./standpunkte/standpunkte2_11-2007.pdf)
 **"Sind Österreichs Reiche zu arm? - Die Debatte um die Abschaffung der Erbschaftssteuer"**
 Ausgabe Nummer 1 | Mai 2007 | [PDF](./standpunkte/standpunkte1_05-2007.pdf)
 
-### Our reports to the Students' Representation at Universities
+### Our reports to the University Representation (ÖH)
 
-[WiSe18_19](./uv/uv_bericht_ws_18_19.pdf).
+[WiSe18_19](./uv/uv_bericht_ws_18_19.pdf)
 [WiSe19_20-1](./uv/1UVWise1920.pdf)
 [Wise19_20-2](./uv/2UVWise1920.pdf)
