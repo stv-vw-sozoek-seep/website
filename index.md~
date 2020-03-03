@@ -91,6 +91,6 @@ Ausgabe Nummer 1 | Mai 2007 | [PDF](./standpunkte/standpunkte1_05-2007.pdf)
 
 ### Our reports to the University Representation (ÖH)
 
-ÖH Report Wintersemester 18/19 [PDF](./uv/uv_bericht_ws_18_19.pdf)
-ÖH Report Wintersemester 19/20 - 1 [PDF](./uv/1UVWise1920.pdf)
-ÖH Report Wintersemester 19/20 - 2 [PDF](./uv/2UVWise1920.pdf)
+ÖH Report Wintersemester 18/19 [PDF](./uv/uv_bericht_ws_18_19.pdf) <br/>
+ÖH Report Wintersemester 19/20 - 1 [PDF](./uv/1UVWise1920.pdf) <br/>
+ÖH Report Wintersemester 19/20 - 2 [PDF](./uv/2UVWise1920.pdf) <br/>
