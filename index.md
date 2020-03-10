@@ -48,12 +48,17 @@ We are excited to meet the new cohort at the welcome event of the SEEP Master. Y
 
 ### Standpunkte
 
-"Nachhaltigkeit." 
-Ausgabe Nummer 15 Oktober 2017  PDF 
+**"Die Ökonomie als Wissenschaft"**
+Ausgabe Nummer 17 | Juni 2019 | [PDF](./standpunkte/Standpunkte_17_3_.pdf)
+
+**"Arbeitsverhältnisse"**
+Ausgabe Nummer 16 | Mai 2018 | [PDF](./standpunkte/Standpunkte16_Final1.pdf)
+
+**"Nachhaltigkeit."** 
+Ausgabe Nummer 15 Oktober 2017 | [PDF](./standpunkte/Standpunkte15.pdf) 
 
 **"Die verlorene Ausgabe - Die Standpunkte sind zurück"** 
 Ausgabe Nummer 14 | März 2017 | [PDF](./standpunkte/Standpunkte_14-Aktuell.pdf) 
-
 **"Volldampf Voraus! - Wege aus der Krise"**
 Ausgabe Nummer 13 | April 2015 | [PDF](./standpunkte/Standpunkte13_-_Volldampf_Voraus.pdf) 
 
