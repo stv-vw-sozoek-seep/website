@@ -20,6 +20,10 @@ or visit us at the [Master Students' Room](https://campus.wu.ac.at/?campus=1&q=D
 
 ## NEWS
 
+### VW Heuriger
+
+The next VW Heuriger will be on Friday, 20 March 2020 at 6 p.m. at the 10er Marie. See [FB-Event](https://www.facebook.com/events/1512764185556459/)
+
 
 ### Momentum Junior Fellowship Program
 
