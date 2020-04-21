@@ -28,7 +28,7 @@ Take part in our [Survey!](https://forms.gle/KdA7jY7Qjnd55Di49)
 
 ### VW Heuriger
 
-The next VW Heuriger will be on <del>Friday, 20 March 2020 at 6 p.m. at the 10er Marie. See [FB-Event](https://www.facebook.com/events/809146516163428/) </del> Unfortunately this event was cancelled due to the [COVID-19](./https://coronavirus.wien.gv.at/site/faq-english/) Outbreak.
+The next VW Heuriger will be on <del>Friday, 20 March 2020 at 6 p.m. at the 10er Marie. See [FB-Event](https://www.facebook.com/events/809146516163428/) </del> Unfortunately this event was cancelled due to the [COVID-19](https://coronavirus.wien.gv.at/site/faq-english/) Outbreak.
 
 
 ### Momentum Junior Fellowship Program
