@@ -26,7 +26,7 @@ How is distance learning going so far? What needs to be improved? We, as your el
 
 Take part in our survey!
 
-https://forms.gle/KdA7jY7Qjnd55Di49
+[Survey](https://forms.gle/KdA7jY7Qjnd55Di49)
 
 ### VW Heuriger
 
