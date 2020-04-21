@@ -23,7 +23,9 @@ or visit us at the [Master Students' Room](https://campus.wu.ac.at/?campus=1&q=D
 ### COVID 19 Distance Learning Survey
 
 How is distance learning going so far? What needs to be improved? We, as your elected student representatives want to ensure that this semester, even with the limitations, can still be without negative effects for you. We therefore ask you for your feedback on the distance learning, which we will forward to the program coordinators. 
- Take part in our survey!
+
+Take part in our survey!
+
 https://forms.gle/KdA7jY7Qjnd55Di49
 
 ### VW Heuriger
