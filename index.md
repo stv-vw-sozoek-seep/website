@@ -20,6 +20,10 @@ or visit us at the [Master Students' Room](https://campus.wu.ac.at/?campus=1&q=D
 
 ## NEWS
 
+### Welcome Event Master Economics.Socio-Economics.SEEP
+
+We are excited to meet the new cohort at the welcome event of the Master's programmes. You can find our presentation [here](./presi.pdf).
+
 ### Bi-Weekly Plenary Sessions
 
 Our biweekly plenary sessions will be held on Thursday at 18:00 online via MS Teams. For further information please have a look at the Event on our Facebook Page [here](https://www.facebook.com/events/705816183234650/) and join our [MS Team](https://teams.microsoft.com/l/channel/19%3a6f7b970329a04e9ba963d497d5b96814%40thread.tacv2/General?groupId=30aed71c-35f7-412a-8896-c6cb242e6427&tenantId=0504f721-d451-402b-b884-381428559e39).
@@ -45,15 +49,7 @@ The Momentum Institute's Junior Fellowship Program offers the opportunity to wri
 It's that time again - we're celebrating the end of the year! We're therefore very happy to invite you to punch and cookies, in our Econ.SocEcon.SEEP Room in D4. There will be punch as long as it lasts - at 19:30 we will go to the Punschstände in front of LC. 
 We will also use the time to discuss projects and ideas for the next year. We're very much looking forward to seeing you there! [Event](https://www.facebook.com/events/1005659323120801/)
 
-### Welcome Event Master Economics (2019.10.01)
-
-We are excited to meet the new cohort at the welcome event of the Master's in Economics. You can find our presentation [here](./MStv_Welcome_Pres.pdf).
-
-### Welcome Event SEEP (2019.09.26)
-
-We are excited to meet the new cohort at the welcome event of the SEEP Master. You can find the presentation [here](./MStv_Welcome_Pres.pdf).
-
-### Standpunkte
+## Standpunkte
 
 **"Let‘s talk about Economics - Perceptions in Media and Society"**
 Issue 18 | March 2020 | [PDF](./standpunkte/Standpunkte_18.pdf)
