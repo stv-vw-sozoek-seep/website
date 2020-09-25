@@ -55,6 +55,9 @@ We are excited to meet the new cohort at the welcome event of the SEEP Master. Y
 
 ### Standpunkte
 
+**"Let‘s talk about Economics - Perceptions in Media and Society"**
+Issue 18 | March 2020 | [PDF](./standpunkte/Standpunkte_18.pdf)
+
 **"Die Ökonomie als Wissenschaft"**
 Ausgabe Nummer 17 | Juni 2019 | [PDF](./standpunkte/Standpunkte_17_3_.pdf)
 
