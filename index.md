@@ -20,6 +20,11 @@ or visit us at the [Master Students' Room](https://campus.wu.ac.at/?campus=1&q=D
 
 ## NEWS
 
+### Bi-Weekly Plenary Sessions
+
+Our biweekly plenary sessions will be held on Thursday at 18:00 online via MS Teams. For further information please have a look at the Event on our Facebook Page [here](https://www.facebook.com/events/705816183234650/) and join our [MS Team](https://teams.microsoft.com/l/channel/19%3a6f7b970329a04e9ba963d497d5b96814%40thread.tacv2/General?groupId=30aed71c-35f7-412a-8896-c6cb242e6427&tenantId=0504f721-d451-402b-b884-381428559e39).
+
+
 ### COVID 19 Distance Learning Survey
 
 How is distance learning going so far? What needs to be improved? We, as your elected student representatives want to ensure that this semester, even with the limitations, can still be without negative effects for you. We therefore ask you for your feedback on the distance learning, which we will forward to the program coordinators. 
@@ -39,10 +44,6 @@ The Momentum Institute's Junior Fellowship Program offers the opportunity to wri
 
 It's that time again - we're celebrating the end of the year! We're therefore very happy to invite you to punch and cookies, in our Econ.SocEcon.SEEP Room in D4. There will be punch as long as it lasts - at 19:30 we will go to the Punschstände in front of LC. 
 We will also use the time to discuss projects and ideas for the next year. We're very much looking forward to seeing you there! [Event](https://www.facebook.com/events/1005659323120801/)
-
-### Bi-Weekly Plenary Sessions
-
-Our biweekly plenary sessions will be held on Tuesday at 18:00 in our Student Representatives Room in D4 1.206. For further information please have a look at the Event on our Facebook Page [here](https://www.facebook.com/events/705816183234650/).
 
 ### Welcome Event Master Economics (2019.10.01)
 
