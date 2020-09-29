@@ -28,7 +28,16 @@ We are excited to meet the new cohort at the welcome event of the Master's progr
 
 Our biweekly plenary sessions will be held on Thursday at 18:00 online via MS Teams. For further information please have a look at the Event on our Facebook Page [here](https://www.facebook.com/events/347674670013562/) and join our [MS Team](https://teams.microsoft.com/l/channel/19%3a6f7b970329a04e9ba963d497d5b96814%40thread.tacv2/General?groupId=30aed71c-35f7-412a-8896-c6cb242e6427&tenantId=0504f721-d451-402b-b884-381428559e39).
 
+### R Tutorials (free of charge - free to join)
 
+Time: always 18:00 - 20:00 (6pm - 8pm)
+
+* Monday, October 19
+* Monday, November 2
+* Monday, November 9
+* Monday, November 16
+
+[Gitlab](https://gitlab.com/r-students-WU/tutorial-winter-2020) [MS Teams](https://teams.microsoft.com/l/channel/19%3a327200012dc14dbd841564f7381a0037%40thread.tacv2/General?groupId=7c500954-683b-4f5f-9ed0-78a687c4f8d6&tenantId=0504f721-d451-402b-b884-381428559e39)
 ### COVID 19 Distance Learning Survey
 
 How is distance learning going so far? What needs to be improved? We, as your elected student representatives want to ensure that this semester, even with the limitations, can still be without negative effects for you. We therefore ask you for your feedback on the distance learning, which we will forward to the program coordinators. 
