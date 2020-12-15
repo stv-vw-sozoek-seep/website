@@ -22,25 +22,25 @@ or visit us at the [Master Students' Room](https://campus.wu.ac.at/?campus=1&q=D
 We have created a number of Guides to help you with your studies! 
 
 ### Which program is the right one for me? 
-These guides will try to help you decide which program (Econ, SozÖK, SEEP) is the right one for you! 
-[Guide: Econ Introduction](/guides/Guide_Econ_Introduction.pdf)
-[Guide: SEEP Introduction](/guides/Guide_SEEP_Introduction.pdf)
+These guides will try to help you decide which program (Econ, SozÖK, SEEP) is the right one for you! <br>
+[Guide: Econ Introduction](/guides/Guide_Econ_Introduction.pdf)<br>
+[Guide: SEEP Introduction](/guides/Guide_SEEP_Introduction.pdf)<br>
 [Guide: SozÖK Einführung](/guides/Guide_SozOek_Overview.pdf)
 
 ### How to apply to the study programs?
-These guides will lead you through the application process for Economics and SEEP. Sozioökonomie does not have a special application process at the moment. 
-[Guide: Econ Application](/guides/Guide_Econ_Application.pdf)
+These guides will lead you through the application process for Economics and SEEP. Sozioökonomie does not have a special application process at the moment. <br>
+[Guide: Econ Application](/guides/Guide_Econ_Application.pdf)<br>
 [Guide: SEEP Application](/guides/Guide_SEEP_Application.pdf)
 
 ### How to write your master thesis? 
-These guides will introduce you to the topic of writing your master thesis. We have compiled a few tips and tricks on how to get started in each of the programs.
-[Guide: Econ Master Thesis](/guides/Guide_Econ_Master_Thesis.pdf)
+These guides will introduce you to the topic of writing your master thesis. We have compiled a few tips and tricks on how to get started in each of the programs.<br>
+[Guide: Econ Master Thesis](/guides/Guide_Econ_Master_Thesis.pdf)<br>
 [Guide: SEEP Master Thesis](/guides/Guide_SEEP_Master_Thesis.pdf)
 
 ### General Guides (Academic Writing, Residence Permit, Semester Abroad) 
-The following guides deal with the topic of a semester abroad in each of the Master programs as well as the general topics of scientific and academic writing as well as how to get a residence permit if you are a third country national. 
-[Guide: Semester Abroad](/guides/Guide_Semester_Abroad.pdf)
-[Guide: Academic Writing](/guides/Guide_Academic_Writing.pdf)
+The following guides deal with the topic of a semester abroad in each of the Master programs as well as the general topics of scientific and academic writing as well as how to get a residence permit if you are a third country national. <br>
+[Guide: Semester Abroad](/guides/Guide_Semester_Abroad.pdf)<br>
+[Guide: Academic Writing](/guides/Guide_Academic_Writing.pdf)<br>
 [Guide: Residence Permit](/guides/Guide_Residence_Permit.pdf)
 
 
