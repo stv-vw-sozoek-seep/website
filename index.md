@@ -18,54 +18,15 @@ or contact us at stv-vwsozoekseep [at] wu.ac.at
 
 or visit us at the [Master Students' Room](https://campus.wu.ac.at/?campus=1&q=D4.1.208)
 
-## Student Guides
-We have created a number of Guides to help you with your studies! 
-
-### Which program is the right one for me? 
-These guides will try to help you decide which program (Econ, SozÖK, SEEP) is the right one for you! <br>
-[Guide: Econ Introduction](/guides/Guide_Econ_Introduction.pdf)<br>
-[Guide: SEEP Introduction](/guides/Guide_SEEP_Introduction.pdf)<br>
-[Guide: SozÖK Einführung](/guides/Guide_SozOek_Overview.pdf)
-
-### How to apply to the study programs?
-These guides will lead you through the application process for Economics and SEEP. Sozioökonomie does not have a special application process at the moment. <br>
-[Guide: Econ Application](/guides/Guide_Econ_Application.pdf)<br>
-[Guide: SEEP Application](/guides/Guide_SEEP_Application.pdf)
-
-### How to write your master thesis? 
-These guides will introduce you to the topic of writing your master thesis. We have compiled a few tips and tricks on how to get started in each of the programs.<br>
-[Guide: Econ Master Thesis](/guides/Guide_Econ_Master_Thesis.pdf)<br>
-[Guide: SEEP Master Thesis](/guides/Guide_SEEP_Master_Thesis.pdf)
-
-### General Guides (Academic Writing, Residence Permit, Semester Abroad) 
-The following guides deal with the topic of a semester abroad in each of the Master programs as well as the general topics of scientific and academic writing as well as how to get a residence permit if you are a third country national. <br>
-[Guide: Semester Abroad](/guides/Guide_Semester_Abroad.pdf)<br>
-[Guide: Academic Writing](/guides/Guide_Academic_Writing.pdf)<br>
-[Guide: Residence Permit](/guides/Guide_Residence_Permit.pdf)
-
-
 ## NEWS
 
-### R Tutorials for Women*
+### Plenary sessions (bi-weekly)
 
-We have once again organized an R-Tutorial for women\*! This tutorial is open for everybody defining themselves as FLINT\* (female, lesbian, non-binary, trans).
-University is often very male-dominated. With this tutorial we want to explicitly support women\*/FLINT\* in these important fields.
-Please register via Mail: stv-vwsozoekseep [at] wu.ac.at and check the [FB-Event](https://www.facebook.com/events/838838533536224/) for Updates.
-
-Time: always 17:00 - 19:00 (5pm - 7pm)
-
-* Thursday, November 11
-* Thursday, November 26
-* Thursday, December 3
-* Thursday, December 10
+Our biweekly plenary sessions will be held on Tuesday at 18:00 online via MS Teams. For further information please have a look at the Event on our Facebook Page [here](https://www.facebook.com/events/347674670013562/) and join our [MS Team](https://teams.microsoft.com/l/channel/19%3a6f7b970329a04e9ba963d497d5b96814%40thread.tacv2/General?groupId=30aed71c-35f7-412a-8896-c6cb242e6427&tenantId=0504f721-d451-402b-b884-381428559e39).
 
 ### Welcome Event Master Economics.Socio-Economics.SEEP
 
 We are excited to meet the new cohort at the welcome event of the Master's programmes. You can find our presentation [here](./presi.pdf).
-
-### Bi-Weekly Plenary Sessions
-
-Our biweekly plenary sessions will be held on Thursday at 18:00 online via MS Teams. For further information please have a look at the Event on our Facebook Page [here](https://www.facebook.com/events/347674670013562/) and join our [MS Team](https://teams.microsoft.com/l/channel/19%3a6f7b970329a04e9ba963d497d5b96814%40thread.tacv2/General?groupId=30aed71c-35f7-412a-8896-c6cb242e6427&tenantId=0504f721-d451-402b-b884-381428559e39).
 
 ### R Tutorials (free of charge - free to join)
 
