@@ -20,26 +20,13 @@ or visit us at the [Master Students' Room](https://campus.wu.ac.at/?campus=1&q=D
 
 ## NEWS
 
-### R Tutorials for Women*
+### Plenary sessions (bi-weekly)
 
-We have once again organized an R-Tutorial for women\*! This tutorial is open for everybody defining themselves as FLINT\* (female, lesbian, non-binary, trans).
-University is often very male-dominated. With this tutorial we want to explicitly support women\*/FLINT\* in these important fields.
-Please register via Mail: stv-vwsozoekseep [at] wu.ac.at and check the [FB-Event](https://www.facebook.com/events/838838533536224/) for Updates.
-
-Time: always 17:00 - 19:00 (5pm - 7pm)
-
-* Thursday, November 11
-* Thursday, November 26
-* Thursday, December 3
-* Thursday, December 10
+Our biweekly plenary sessions will be held on Tuesday at 18:00 online via MS Teams. For further information please have a look at the Event on our Facebook Page [here](https://www.facebook.com/events/347674670013562/) and join our [MS Team](https://teams.microsoft.com/l/channel/19%3a6f7b970329a04e9ba963d497d5b96814%40thread.tacv2/General?groupId=30aed71c-35f7-412a-8896-c6cb242e6427&tenantId=0504f721-d451-402b-b884-381428559e39).
 
 ### Welcome Event Master Economics.Socio-Economics.SEEP
 
 We are excited to meet the new cohort at the welcome event of the Master's programmes. You can find our presentation [here](./presi.pdf).
-
-### Bi-Weekly Plenary Sessions
-
-Our biweekly plenary sessions will be held on Thursday at 18:00 online via MS Teams. For further information please have a look at the Event on our Facebook Page [here](https://www.facebook.com/events/347674670013562/) and join our [MS Team](https://teams.microsoft.com/l/channel/19%3a6f7b970329a04e9ba963d497d5b96814%40thread.tacv2/General?groupId=30aed71c-35f7-412a-8896-c6cb242e6427&tenantId=0504f721-d451-402b-b884-381428559e39).
 
 ### R Tutorials (free of charge - free to join)
 
