@@ -1,6 +1,6 @@
 # The Team
 
-![](team_new.jpg)
+![](masterstv_new.jpg)
  
  <center> 
  
@@ -20,7 +20,8 @@ or visit us at the [Master Students' Room](https://campus.wu.ac.at/?campus=1&q=D
 
 ### Plenary sessions (bi-weekly)
 
-Our biweekly plenary sessions will be held on Thursday at 18:00 online via MS Teams. For further information please have a look at the Event on our Facebook Page [here](https://www.facebook.com/events/412484813184947) and join our [MS Team](https://teams.microsoft.com/l/channel/19%3a6f7b970329a04e9ba963d497d5b96814%40thread.tacv2/General?groupId=30aed71c-35f7-412a-8896-c6cb242e6427&tenantId=0504f721-d451-402b-b884-381428559e39).
+Our  plenary sessions will be held every 2nd and 4th Wednesday each month at 18:00 in [D4.1.208](https://campus.wu.ac.at/?campus=1&q=D4.1.208).
+![](plenary_winter2122.jpg)
 
 
 ## Student Guides
@@ -48,7 +49,7 @@ The following guides deal with the topic of a semester abroad in each of the Mas
 [Guide: Academic Writing](/guides/Guide_Academic_Writing.pdf)<br>
 [Guide: Residence Permit](/guides/Guide_Residence_Permit.pdf)
 
-
+<!--
 ## NEWS
 
 ### R Tutorials for Women*
@@ -98,6 +99,8 @@ The Momentum Institute's Junior Fellowship Program offers the opportunity to wri
 
 It's that time again - we're celebrating the end of the year! We're therefore very happy to invite you to punch and cookies, in our Econ.SocEcon.SEEP Room in D4. There will be punch as long as it lasts - at 19:30 we will go to the Punschstände in front of LC. 
 We will also use the time to discuss projects and ideas for the next year. We're very much looking forward to seeing you there! [Event](https://www.facebook.com/events/1005659323120801/)
+
+-->
 
 ## Standpunkte
 
