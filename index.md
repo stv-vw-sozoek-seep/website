@@ -12,7 +12,9 @@
 
 Check out our [facebook page](https://www.facebook.com/vwsozoekseep/)
 
-or contact us at stv-vwsozoekseep [at] wu.ac.at
+follow us on [Instagram](https://www.instagram.com/stv_vw.sozoek.seep/)
+
+contact us at stv-vwsozoekseep [at] wu.ac.at
 
 or visit us at the [Master Students' Room](https://campus.wu.ac.at/?campus=1&q=D4.1.208)
 
