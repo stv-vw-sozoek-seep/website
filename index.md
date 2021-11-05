@@ -1,12 +1,12 @@
 # The Team
 
-![](team.jpg)
+![](team_new.jpg)
  
  <center> 
  
- Felix, Clara, Stephanie <br/>
+ Karol, Pi, Clara <br/>
 
- Daniel & Jasmin
+ Kathrin & Leonie
 
 </center>
 
