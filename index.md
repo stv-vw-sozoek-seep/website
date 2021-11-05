@@ -1,12 +1,10 @@
 # The Team
 
-![](masterstv_new.jpg)
+![](team_new.jpg)
  
  <center> 
  
- Karol, Pi, Clara <br/>
-
- Kathrin & Leonie
+ Karol, Pi, Clara, Kathrin & Leonie
 
 </center>
 
