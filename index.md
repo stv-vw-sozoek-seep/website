@@ -12,17 +12,13 @@ editor_options:
 
 <br>
 
-Check out our [facebook page](https://www.facebook.com/vwsozoekseep/)
-
-
 Check out our <a href="https://www.facebook.com/vwsozoekseep/" target="_blank">facebook page</a>
 
-follow us on [Instagram](https://www.instagram.com/stv_vw.sozoek.seep/)
+follow us on <a href="https://www.instagram.com/stv_vw.sozoek.seep/" target="_blank">Instagram</a>
 
 contact us at stv-vwsozoekseep [at] wu.ac.at
 
-or visit us at the [Master Students'
-Room](https://campus.wu.ac.at/?campus=1&q=D4.1.208)
+or visit us at the <a href="https://campus.wu.ac.at/?campus=1&q=D4.1.208" target="_blank">Master Student' Room</a>
 
 ### Plenary sessions (bi-weekly)
 
