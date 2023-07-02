@@ -16,7 +16,7 @@ Check out our <a href="https://www.facebook.com/vwsozoekseep/" target="_blank">f
 
 follow us on <a href="https://www.instagram.com/stv_vw.sozoek.seep/" target="_blank">Instagram</a>
 
-contact us via <a href="stv-vwsozoekseep [at] wu.ac.at" target="_blank"> stv-vwsozoekseep [at] wu.ac.at</a>
+contact us via <a href="stv-vwsozoekseep@wu.ac.at" target="_blank"> stv-vwsozoekseep [at] wu.ac.at</a>
 
 or visit us at the <a href="https://campus.wu.ac.at/?campus=1&q=D4.1.208" target="_blank">Master Student' Room</a>
 
