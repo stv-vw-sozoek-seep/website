@@ -29,7 +29,7 @@ Student' Room</a>
 
 ### Plenary sessions (bi-weekly)
 
-Our plenary sessions will be held every 1st and 3rd Thursday each month
+Our plenary sessions will be held every 1st and 3rd Tuesday each month
 at 3 pm in [D4.1.208](https://campus.wu.ac.at/?campus=1&q=D4.1.208).
 ![](plenary_winter2122.jpg)
 
@@ -41,14 +41,11 @@ We have created a number of Guides to help you with your studies!
 
 These guides will try to help you decide which program (Econ, SozÖK,
 SEEP) is the right one for you!
-
-<a href="/guides/Guide_Econ_Introduction.pdf" target="_blank">Guide:
+<br><a href="/guides/Guide_Econ_Introduction.pdf" target="_blank">Guide:
 Econ Introduction</a> 
-
-<a href="/guides/Guide_SEEP_Introduction.pdf" target="_blank">Guide:
+<br><a href="/guides/Guide_SEEP_Introduction.pdf" target="_blank">Guide:
 SEEP Introduction</a> 
-
-<a href="/guides/Guide_SozOek_Overview.pdf" target="_blank">Guide:
+<br><a href="/guides/Guide_SozOek_Overview.pdf" target="_blank">Guide:
 SozÖk Einführung</a> 
 
 ### How to apply to the study programs?
