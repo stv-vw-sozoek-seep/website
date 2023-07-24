@@ -62,21 +62,22 @@ SEEP Application</a>
 
 These guides will introduce you to the topic of writing your master
 thesis. We have compiled a few tips and tricks on how to get started in
-each of the programs.<br> [Guide: Econ Master
-Thesis](/guides/Guide_Econ_Master_Thesis.pdf)<br> [Guide: SEEP Master
-Thesis](/guides/Guide_SEEP_Master_Thesis.pdf)
+each of the programs.<br> <a href="/guides/Guide_Econ_Master_Thesis.pdf" target="_blank">Guide:
+Econ Master Thesis</a> 
+<br> <a href="/guides/Guide_SEEP_Master_Thesis.pdf" target="_blank">Guide:
+SEEP Master Thesis</a>
 
 ### General Guides (Academic Writing, Residence Permit, Semester Abroad)
 
 The following guides deal with the topic of a semester abroad in each of
 the Master programs as well as the general topics of scientific and
 academic writing as well as how to get a residence permit if you are a
-third country national. <br> [Guide: Semester
-Abroad](/guides/Guide_Semester_Abroad.pdf)<br> [Guide: Academic
-Writing](/guides/Guide_Academic_Writing.pdf)<br> [Guide: Residence
-Permit](/guides/Guide_Residence_Permit.pdf)
+third country national. <br> <a href="/guides/Guide_Semester_Abroad.pdf" target="_blank">Guide: Semester Abroad</a>
+<br> <a href="/guides/Guide_Academic_Writing.pdf" target="_blank">Guide: Academic
+Writing</a>
+<br> <a href="/guides/Guide_Residence_Permit.pdf" target="_blank">Guide: Residence
+Permit</a>
 
-```{=html}
 ## NEWS
 
 ### R Tutorials for Women*
@@ -126,7 +127,7 @@ The Momentum Institute's Junior Fellowship Program offers the opportunity to wri
 
 It's that time again - we're celebrating the end of the year! We're therefore very happy to invite you to punch and cookies, in our Econ.SocEcon.SEEP Room in D4. There will be punch as long as it lasts - at 19:30 we will go to the Punschstände in front of LC. 
 We will also use the time to discuss projects and ideas for the next year. We're very much looking forward to seeing you there! [Event](https://www.facebook.com/events/1005659323120801/)
-```
+
 ## Standpunkte
 
 **"Let's talk about Economics - Perceptions in Media and Society"**
