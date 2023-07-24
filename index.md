@@ -72,7 +72,6 @@ Writing](/guides/Guide_Academic_Writing.pdf)<br> [Guide: Residence
 Permit](/guides/Guide_Residence_Permit.pdf)
 
 ```{=html}
-<!--
 ## NEWS
 
 ### R Tutorials for Women*
@@ -123,7 +122,6 @@ The Momentum Institute's Junior Fellowship Program offers the opportunity to wri
 It's that time again - we're celebrating the end of the year! We're therefore very happy to invite you to punch and cookies, in our Econ.SocEcon.SEEP Room in D4. There will be punch as long as it lasts - at 19:30 we will go to the Punschstände in front of LC. 
 We will also use the time to discuss projects and ideas for the next year. We're very much looking forward to seeing you there! [Event](https://www.facebook.com/events/1005659323120801/)
 
--->
 ```
 ## Standpunkte
 
