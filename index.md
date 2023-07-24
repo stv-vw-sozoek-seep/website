@@ -29,8 +29,8 @@ Student' Room</a>
 
 ### Plenary sessions (bi-weekly)
 
-Our plenary sessions will be held every 2nd and 4th Wednesday each month
-at 18:00 in [D4.1.208](https://campus.wu.ac.at/?campus=1&q=D4.1.208).
+Our plenary sessions will be held every 1st and 3rd Thursday each month
+at 3 pm in [D4.1.208](https://campus.wu.ac.at/?campus=1&q=D4.1.208).
 ![](plenary_winter2122.jpg)
 
 ## Student Guides
