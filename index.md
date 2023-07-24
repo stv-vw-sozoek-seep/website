@@ -8,7 +8,7 @@ editor_options:
 
 ![](team_2023.JPG)
 
-<center>Sarah, Lea, Nino, Susi & Max</center>
+<center>Sarah, Lea, Nino, Susann & Max</center>
 
 <br>
 
@@ -106,7 +106,7 @@ Time: always 18:00 - 20:00 (6pm - 8pm)
 * Monday, November 9
 * Monday, November 16
 
-[Gitlab](https://gitlab.com/r-students-WU/tutorial-winter-2020) [MS Teams](https://teams.microsoft.com/l/channel/19%3a327200012dc14dbd841564f7381a0037%40thread.tacv2/General?groupId=7c500954-683b-4f5f-9ed0-78a687c4f8d6&tenantId=0504f721-d451-402b-b884-381428559e39)
+[Gitlab](https://gitlab.com/r-students-WU/tutorial-winter-2020) <br>[MS Teams](https://teams.microsoft.com/l/channel/19%3a327200012dc14dbd841564f7381a0037%40thread.tacv2/General?groupId=7c500954-683b-4f5f-9ed0-78a687c4f8d6&tenantId=0504f721-d451-402b-b884-381428559e39)
 
 ### COVID 19 Distance Learning Survey
 
