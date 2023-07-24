@@ -6,19 +6,26 @@ editor_options:
 
 # The Team
 
-![](team_new.jpg)
+![](team_2023.JPG)
 
-<center>Karol, Pi, Clara, Kathrin & Leonie</center>
+<center>Sarah, Lea, Nino, Susi & Max</center>
 
 <br>
 
-Check out our <a href="https://www.facebook.com/vwsozoekseep/" target="_blank">facebook page</a>
+Check out our
+<a href="https://www.facebook.com/vwsozoekseep/" target="_blank">facebook
+page</a>
 
-follow us on <a href="https://www.instagram.com/stv_vw.sozoek.seep/" target="_blank">Instagram</a>
+follow us on
+<a href="https://www.instagram.com/stv_vw.sozoek.seep/" target="_blank">Instagram</a>
 
-contact us via <a href="mailto:stv-vwsozoekseep@wu.ac.at" target="_blank"> stv-vwsozoekseep [at] wu.ac.at</a>
+contact us via
+<a href="mailto:stv-vwsozoekseep@wu.ac.at" target="_blank">
+stv-vwsozoekseep [at] wu.ac.at</a>
 
-or visit us at the <a href="https://campus.wu.ac.at/?campus=1&q=D4.1.208" target="_blank">Master Student' Room</a>
+or visit us at the
+<a href="https://campus.wu.ac.at/?campus=1&q=D4.1.208" target="_blank">Master
+Student' Room</a>
 
 ### Plenary sessions (bi-weekly)
 
