@@ -41,10 +41,13 @@ We have created a number of Guides to help you with your studies!
 
 These guides will try to help you decide which program (Econ, SozÖK,
 SEEP) is the right one for you!
+
 <a href="/guides/Guide_Econ_Introduction.pdf" target="_blank">Guide:
 Econ Introduction</a> 
+
 <a href="/guides/Guide_SEEP_Introduction.pdf" target="_blank">Guide:
 SEEP Introduction</a> 
+
 <a href="/guides/Guide_SozOek_Overview.pdf" target="_blank">Guide:
 SozÖk Einführung</a> 
 
