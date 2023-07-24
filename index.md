@@ -31,7 +31,7 @@ Student' Room</a>
 
 Our plenary sessions will be held every 1st and 3rd Tuesday each month
 at 3 pm in [D4.1.208](https://campus.wu.ac.at/?campus=1&q=D4.1.208).
-![](plenary_winter2122.jpg)
+![](plenary_winter2324.jpg)
 
 ## Student Guides
 
