@@ -52,9 +52,11 @@ SozÖk Einführung</a>
 
 These guides will lead you through the application process for Economics
 and SEEP. Sozioökonomie does not have a special application process at
-the moment. <br> [Guide: Econ
-Application](/guides/Guide_Econ_Application.pdf)<br> [Guide: SEEP
-Application](/guides/Guide_SEEP_Application.pdf)
+the moment. 
+<br><a href="/guides/Guide_Econ_Application.pdf" target="_blank">Guide: Econ
+Application</a> 
+<br><a href="/guides/Guide_SEEP_Application.pdf" target="_blank">Guide:
+SEEP Application</a> 
 
 ### How to write your master thesis?
 
