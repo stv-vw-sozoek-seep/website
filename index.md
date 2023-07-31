@@ -78,7 +78,12 @@ Writing</a>
 <br> <a href="/guides/Guide_Residence_Permit.pdf" target="_blank">Guide: Residence
 Permit</a>
 
-## NEWS
+## UPCOMING EVENTS
+
+###Semester Opening Party
+###R Tutorials for women*
+
+## PASSED EVENTS
 
 ### R Tutorials for Women*
 
