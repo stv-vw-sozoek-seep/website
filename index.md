@@ -80,8 +80,9 @@ Permit</a>
 
 ## UPCOMING EVENTS
 
-###Semester Opening Party
-###R Tutorials for women*
+### Semester Opening Party
+
+### R Tutorials for women*
 
 ## PASSED EVENTS
 
