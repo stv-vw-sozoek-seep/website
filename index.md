@@ -87,7 +87,9 @@ We are excited to meet current and the new cohorts at the semester opening Party
 ### R Tutorials for women*
 
 <details>
-## <summary>PASSED EVENTS</summary>
+<summary>
+##PASSED EVENTS
+</summary>
 <br>
 
 ### R Tutorials for Women*
