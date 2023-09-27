@@ -5,7 +5,7 @@ editor_options:
 ---
  <div class="topnav">
   <a class="active" href="# The Team">About us</a>
-  <a href="#news">News</a>
+  <a href="### Plenary sessions (bi-weekly)">Plenary</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div> 
