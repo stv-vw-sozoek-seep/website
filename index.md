@@ -88,7 +88,7 @@ We are excited to meet current and the new cohorts at the semester opening Party
 
 <details>
 <summary><h2 style="display:inline-block">PASSED EVENTS</h2></summary><br>
-```
+
 <h3 style="display:inline-block">R Tutorials for Women*</h3>
 
 We have once again organized an R-Tutorial for women\*! This tutorial is open for everybody defining themselves as FLINT\* (female, lesbian, non-binary, trans).
@@ -136,7 +136,6 @@ The Momentum Institute's Junior Fellowship Program offers the opportunity to wri
 
 It's that time again - we're celebrating the end of the year! We're therefore very happy to invite you to punch and cookies, in our Econ.SocEcon.SEEP Room in D4. There will be punch as long as it lasts - at 19:30 we will go to the Punschstände in front of LC. 
 We will also use the time to discuss projects and ideas for the next year. We're very much looking forward to seeing you there! [Event](https://www.facebook.com/events/1005659323120801/)
-```
 </details>
 <br>
 
