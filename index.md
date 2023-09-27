@@ -82,9 +82,13 @@ Permit</a>
 
 ### Semester Opening Party
 
+We are excited to meet current and the new cohorts at the semester opening Party. It will take place in the [Club U](https://www.google.com/maps/place/Club+U/@48.2001424,16.3682486,17z/data=!3m1!4b1!4m6!3m5!1s0x476d0782d36eb3eb:0xed028069cfa9015b!8m2!3d48.2001424!4d16.3708235!16s%2Fg%2F11b6__r8rp?entry=ttu) on the 6th of October 2023 at 10 pm. 
+
 ### R Tutorials for women*
 
-## PASSED EVENTS
+<details>
+## <summary>PASSED EVENTS</summary>
+<br>
 
 ### R Tutorials for Women*
 
@@ -133,6 +137,7 @@ The Momentum Institute's Junior Fellowship Program offers the opportunity to wri
 
 It's that time again - we're celebrating the end of the year! We're therefore very happy to invite you to punch and cookies, in our Econ.SocEcon.SEEP Room in D4. There will be punch as long as it lasts - at 19:30 we will go to the Punschstände in front of LC. 
 We will also use the time to discuss projects and ideas for the next year. We're very much looking forward to seeing you there! [Event](https://www.facebook.com/events/1005659323120801/)
+</details>
 
 ## Standpunkte
 
