@@ -3,7 +3,12 @@ editor_options:
   markdown: 
     wrap: 72
 ---
-
+ <div class="topnav">
+  <a class="active" href="# The Team">About us</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+</div> 
 # The Team
 
 ![](team_2023.JPG)
@@ -201,7 +206,7 @@ November 2007 \| [PDF](./standpunkte/standpunkte2_11-2007.pdf)
 Erbschaftssteuer"** Ausgabe Nummer 1 \| Mai 2007 \|
 [PDF](./standpunkte/standpunkte1_05-2007.pdf)
 
-### Our reports to the University Representation (ÖH)
+## Our reports to the University Representation (ÖH)
 
 ÖH Report Wintersemester 18/19 [PDF](./uv/uv_bericht_ws_18_19.pdf) <br/>
 ÖH Report Wintersemester 19/20 - 1 [PDF](./uv/1UVWise1920.pdf) <br/> ÖH
