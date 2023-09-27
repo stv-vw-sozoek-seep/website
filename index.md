@@ -89,7 +89,7 @@ We are excited to meet current and the new cohorts at the semester opening Party
 <details>
 <summary><h2 style="display:inline-block">PASSED EVENTS</h2></summary><br>
 ```
-### R Tutorials for Women*
+<h3 style="display:inline-block">R Tutorials for Women*</h3>
 
 We have once again organized an R-Tutorial for women\*! This tutorial is open for everybody defining themselves as FLINT\* (female, lesbian, non-binary, trans).
 University is often very male-dominated. With this tutorial we want to explicitly support women\*/FLINT\* in these important fields.
