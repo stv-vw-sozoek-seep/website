@@ -86,8 +86,8 @@ We are excited to meet current and the new cohorts at the semester opening Party
 
 ### R Tutorials for women*
 
-## PASSED EVENTS 
-<details><summary>click here</summary><br>
+<p>
+## <details><summary>PASSED EVENTS </summary><br>
 
 ### R Tutorials for Women*
 
@@ -137,6 +137,8 @@ The Momentum Institute's Junior Fellowship Program offers the opportunity to wri
 It's that time again - we're celebrating the end of the year! We're therefore very happy to invite you to punch and cookies, in our Econ.SocEcon.SEEP Room in D4. There will be punch as long as it lasts - at 19:30 we will go to the Punschstände in front of LC. 
 We will also use the time to discuss projects and ideas for the next year. We're very much looking forward to seeing you there! [Event](https://www.facebook.com/events/1005659323120801/)
 </details>
+</p>
+<br>
 
 ## Standpunkte
 
