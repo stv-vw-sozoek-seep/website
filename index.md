@@ -3,8 +3,40 @@ editor_options:
   markdown: 
     wrap: 72
 ---
+<style>
+/* Add a black background color to the top navigation */
+.topnav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #f64f60;
+  color: white;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #f64f60;
+  color: white;
+}
+</style>
  <div class="topnav">
-  <a class="active" href="#Team">About us</a>
+  <a href="#Team">About us</a>
   <a href="#Plenary">Plenary</a>
   <a href="#Guides">Guides</a>
   <a href="#Events">Upcoming</a>
@@ -14,6 +46,8 @@ editor_options:
 </div> 
 
 <br id="Team">
+
+<br>
 
 # The Team
 
@@ -39,6 +73,7 @@ or visit us at the
 Student' Room</a>
 
 <br id="Plenary">
+<br>
 
 ### Plenary sessions (bi-weekly)
 
@@ -47,6 +82,7 @@ at 3 pm in [D4.1.208](https://campus.wu.ac.at/?campus=1&q=D4.1.208).
 ![](plenary_winter2324.jpg)
 
 <br id="Guides">
+<br>
 
 ## Student Guides
 
@@ -94,6 +130,7 @@ Writing</a>
 Permit</a>
 
 <br id="Events">
+<br>
 
 ## UPCOMING EVENTS
 
@@ -104,6 +141,7 @@ We are excited to meet current and the new cohorts at the semester opening Party
 ### R Tutorials for women*
 
 <br id="Passed">
+<br>
 
 ## PASSED EVENTS
 
@@ -156,6 +194,7 @@ It's that time again - we're celebrating the end of the year! We're therefore ve
 We will also use the time to discuss projects and ideas for the next year. We're very much looking forward to seeing you there! [Event](https://www.facebook.com/events/1005659323120801/)
 
 <br id="Standpunkt">
+<br>
 
 ## Standpunkte
 
@@ -223,6 +262,7 @@ Erbschaftssteuer"** Ausgabe Nummer 1 \| Mai 2007 \|
 [PDF](./standpunkte/standpunkte1_05-2007.pdf)
 
 <br id="Reports">
+<br>
 
 ## Our reports to the University Representation (ÖH)
 
