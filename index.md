@@ -4,9 +4,9 @@ editor_options:
     wrap: 72
 ---
 
-
 <link rel="stylesheet"   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+```{=html}
 <style>
 /* Add a black background color to the top navigation */
 .topnav {
@@ -64,7 +64,8 @@ editor_options:
   }
 }
 </style>
-
+```
+```{=html}
 <script>
   function myFunction() {
   var x = document.getElementById("myTopnav");
@@ -75,17 +76,15 @@ editor_options:
   }
 }
 </script>
-
-
-
-<div class="topnav" id="myTopnav">
+```
+::: {#myTopnav .topnav}
 <a href="#Team">About us</a> <a href="#Plenary">Plenary</a>
 <a href="#Guides">Guides</a> <a href="#Events">Upcoming</a>
-<a href="#Passed">Archive</a> <a href="#Standpunkt">Magazine</a>
+<a href="#Passed">Passed</a> <a href="#Standpunkt">Magazine</a>
 <a href="#Reports">ÖH Reports</a>
 <a href="javascript:void(0);" class="icon" onclick="myFunction()">
 <i class="fa fa-bars"></i> </a>
-</div>
+:::
 
 <br id="Team">
 
