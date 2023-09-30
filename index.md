@@ -6,7 +6,7 @@ editor_options:
 
 <link rel="stylesheet"   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-```{=html}
+
 <style>
 /* Add a black background color to the top navigation */
 .topnav {
@@ -64,8 +64,7 @@ editor_options:
   }
 }
 </style>
-```
-```{=html}
+
 <script>
   function myFunction() {
   var x = document.getElementById("myTopnav");
@@ -76,7 +75,7 @@ editor_options:
   }
 }
 </script>
-```
+
 ::: {#myTopnav .topnav}
 <a href="#Team">About us</a> <a href="#Plenary">Plenary</a>
 <a href="#Guides">Guides</a> <a href="#Events">Upcoming</a>
