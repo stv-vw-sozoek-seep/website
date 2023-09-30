@@ -76,14 +76,14 @@ editor_options:
 }
 </script>
 
-::: {#myTopnav .topnav}
+<div class="topnav" id="myTopnav">
 <a href="#Team">About us</a> <a href="#Plenary">Plenary</a>
 <a href="#Guides">Guides</a> <a href="#Events">Upcoming</a>
 <a href="#Passed">Passed</a> <a href="#Standpunkt">Magazine</a>
 <a href="#Reports">ÖH Reports</a>
 <a href="javascript:void(0);" class="icon" onclick="myFunction()">
 <i class="fa fa-bars"></i> </a>
-:::
+</div>
 
 <br id="Team">
 
