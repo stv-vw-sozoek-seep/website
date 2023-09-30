@@ -10,9 +10,6 @@ editor_options:
 <style>
 /* Add a black background color to the top navigation */
 .topnav {
-  position: fixed;
-  top: 0;
-  width: 100%;
   background-color: white;
   overflow: hidden;
 }
@@ -43,6 +40,16 @@ editor_options:
 .topnav .icon {
   display: none;
 }
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+
 @media screen and (max-width: 600px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
