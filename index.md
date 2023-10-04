@@ -97,6 +97,8 @@ editor_options:
 
 <br>
 
+More about [us](./Welcome event.pdf)
+
 Check out our
 <a href="https://www.facebook.com/vwsozoekseep/" target="_blank">facebook
 page</a>
@@ -187,10 +189,10 @@ We have organized an R-Tutorial for women*! This tutorial is open for everybody 
 
 Time: always 17:00 - 19:00 (5pm - 7pm)
 
-    Thursday, November 07
-    Thursday, November 14
-    Thursday, December 21
-    Thursday, December 28
+  Thursday, November 07
+  Thursday, November 14
+  Thursday, December 21
+  Thursday, December 28
 
 
 <br id="Passed"> <br>
@@ -217,7 +219,7 @@ Time: always 17:00 - 19:00 (5pm - 7pm)
 
 ### Welcome Event Master Economics.Socio-Economics.SEEP
 
-We are excited to meet the new cohort at the welcome event of the
+We are excited to meet the new cohort at the welcome event of the 
 Master's programmes. You can find our presentation [here](./presi.pdf).
 
 ### R Tutorials (free of charge - free to join)
