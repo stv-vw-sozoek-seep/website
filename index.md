@@ -189,10 +189,10 @@ We have organized an R-Tutorial for women*! This tutorial is open for everybody 
 
 Time: always 17:00 - 19:00 (5pm - 7pm)
 
-  Thursday, November 07
-  Thursday, November 14
-  Thursday, December 21
-  Thursday, December 28
+  Thursday, November 07 <br>
+  Thursday, November 14 <br>
+  Thursday, December 21 <br>
+  Thursday, December 28 <br>
 
 
 <br id="Passed"> <br>
