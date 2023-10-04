@@ -97,9 +97,9 @@ editor_options:
 
 <br>
 
-More about [us](./Welcome event.pdf)
+More about [us](./Welcome event.pdf).
 
-Check out our
+Also check out our
 <a href="https://www.facebook.com/vwsozoekseep/" target="_blank">facebook
 page</a>
 
@@ -112,7 +112,7 @@ stv-vwsozoekseep [at] wu.ac.at</a>
 
 or visit us at the
 <a href="https://campus.wu.ac.at/?campus=1&q=D4.1.208" target="_blank">Master
-Student' Room</a>
+Student' Room</a>.
 
 <br id="Plenary"> <br>
 
