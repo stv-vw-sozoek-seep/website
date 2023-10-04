@@ -181,7 +181,17 @@ opening Party. It will take place in the [Club
 U](https://www.google.com/maps/place/Club+U/@48.2001424,16.3682486,17z/data=!3m1!4b1!4m6!3m5!1s0x476d0782d36eb3eb:0xed028069cfa9015b!8m2!3d48.2001424!4d16.3708235!16s%2Fg%2F11b6__r8rp?entry=ttu)
 on the 6th of October 2023 at 10 pm.
 
-### R Tutorials for women\*
+### R Tutorials for Women\*
+
+We have organized an R-Tutorial for women*! This tutorial is open for everybody defining themselves as FLINT* (female, lesbian, inter, non-binary, trans). University is often very male-dominated. With this tutorial we want to explicitly support women*/FLINT* in these important fields. Please register <a href="https://docs.google.com/forms/d/1AMae6TQ4oEzsr4Uuiu1j51kKg7F-xnwfKQtW-zvOCc4/edit" target="_blank">here</a> if you want to join. 
+
+Time: always 17:00 - 19:00 (5pm - 7pm)
+
+    Thursday, November 07
+    Thursday, November 14
+    Thursday, December 21
+    Thursday, December 28
+
 
 <br id="Passed"> <br>
 
