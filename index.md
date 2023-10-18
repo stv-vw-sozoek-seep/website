@@ -176,13 +176,6 @@ Residence Permit</a>
 
 ## UPCOMING EVENTS
 
-### Semester Opening Party
-
-We are excited to meet current and the new cohorts at the semester
-opening Party. It will take place in the [Club
-U](https://www.google.com/maps/place/Club+U/@48.2001424,16.3682486,17z/data=!3m1!4b1!4m6!3m5!1s0x476d0782d36eb3eb:0xed028069cfa9015b!8m2!3d48.2001424!4d16.3708235!16s%2Fg%2F11b6__r8rp?entry=ttu)
-on the 6th of October 2023 at 10 pm.
-
 ### R Tutorials for Women\*
 
 We have organized an R-Tutorial for women*! This tutorial is open for everybody defining themselves as FLINT* (female, lesbian, inter, non-binary, trans). University is often very male-dominated. With this tutorial we want to explicitly support women*/FLINT* in these important fields. Please register <a href="https://docs.google.com/forms/d/1AMae6TQ4oEzsr4Uuiu1j51kKg7F-xnwfKQtW-zvOCc4/edit" target="_blank">here</a> if you want to join. 
@@ -194,10 +187,21 @@ Time: always 17:00 - 19:00 (5pm - 7pm)
   Thursday, December 21 <br>
   Thursday, December 28 <br>
 
+### Heuriger
+
+The next Heuriger will be on <del>Friday, 10 November 2020 at
+the Hengl - Haselbrunner <a href="https://www.google.com/maps/place/Hengl+-+Haselbrunner/@48.2469298,16.3432663,14z/data=!4m14!1m7!3m6!1s0x476d0626f98081e5:0xc90222dde540bb80!2sHengl+-+Haselbrunner!8m2!3d48.2474156!4d16.3482445!16s%2Fg%2F1vpq5p2p!3m5!1s0x476d0626f98081e5:0xc90222dde540bb80!8m2!3d48.2474156!4d16.3482445!16s%2Fg%2F1vpq5p2p?entry=ttu" target="_blank">Hengl - Haselbrunner</a>.
 
 <br id="Passed"> <br>
 
 ## PASSED EVENTS
+
+### Semester Opening Party
+
+We are excited to meet current and the new cohorts at the semester
+opening Party. It will take place in the [Club
+U](https://www.google.com/maps/place/Club+U/@48.2001424,16.3682486,17z/data=!3m1!4b1!4m6!3m5!1s0x476d0782d36eb3eb:0xed028069cfa9015b!8m2!3d48.2001424!4d16.3708235!16s%2Fg%2F11b6__r8rp?entry=ttu)
+on the 6th of October 2023 at 10 pm.
 
 ### R Tutorials for Women\*
 
