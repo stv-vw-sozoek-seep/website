@@ -189,7 +189,7 @@ Time: always 17:00 - 19:00 (5pm - 7pm)
 
 ### Heuriger
 
-The next Heuriger will be on <del>Friday, 10 November 2020 at
+The next Heuriger will be on Friday, 10 November 2020 at
 the Hengl - Haselbrunner <a href="https://www.google.com/maps/place/Hengl+-+Haselbrunner/@48.2469298,16.3432663,14z/data=!4m14!1m7!3m6!1s0x476d0626f98081e5:0xc90222dde540bb80!2sHengl+-+Haselbrunner!8m2!3d48.2474156!4d16.3482445!16s%2Fg%2F1vpq5p2p!3m5!1s0x476d0626f98081e5:0xc90222dde540bb80!8m2!3d48.2474156!4d16.3482445!16s%2Fg%2F1vpq5p2p?entry=ttu" target="_blank">Hengl - Haselbrunner</a>.
 
 <br id="Passed"> <br>
