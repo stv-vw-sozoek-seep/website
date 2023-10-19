@@ -114,7 +114,7 @@ or visit us at the
 <a href="https://campus.wu.ac.at/?campus=1&q=D4.1.208" target="_blank">Master
 Student' Room</a>.
 
-You can also use the Stufenraum as a common room. Please check out the <a href="https://docs.google.com/spreadsheets/d/1EFx-UTmWcXeTw9wES8Oimnz1_04socH4mxdg0tBwAYE/edit#gid=639866271">timetable</a> and see what events are taking place there.
+You can also use the Master Student' Room (Stufenraum) as a common room. Please check out the <a href="https://docs.google.com/spreadsheets/d/1EFx-UTmWcXeTw9wES8Oimnz1_04socH4mxdg0tBwAYE/edit#gid=639866271">timetable</a> and see what events are taking place there.
 
 <br id="Plenary"> <br>
 
