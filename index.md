@@ -180,6 +180,10 @@ Residence Permit</a>
 
 ## UPCOMING EVENTS
 
+### Movie Evening with Glühwein
+
+We invite our Master's program students to a movie night in the Stufenraum. On Wednesday, November 29th at 6pm we will watch the documentation "Das laute Frühlicht" in German with English subtitles and serve mulled wine for coziness. Please bring your own cup :)
+
 ### R Tutorials for Women\*
 
 We have organized an R-Tutorial for women*! This tutorial is open for everybody defining themselves as FLINT* (female, lesbian, inter, non-binary, trans). University is often very male-dominated. With this tutorial we want to explicitly support women*/FLINT* in these important fields. Please register <a href="https://docs.google.com/forms/d/1AMae6TQ4oEzsr4Uuiu1j51kKg7F-xnwfKQtW-zvOCc4/edit" target="_blank">here</a> if you want to join. 
@@ -191,14 +195,14 @@ Time: always 17:00 - 19:00 (5pm - 7pm)
   Thursday, December 21 <br>
   Thursday, December 28 <br>
 
-### Heuriger
-
-The next Heuriger will be on Friday, 10 November 2023 at 6 pm in
-the <a href="https://www.google.com/maps/place/Hengl+-+Haselbrunner/@48.2469298,16.3432663,14z/data=!4m14!1m7!3m6!1s0x476d0626f98081e5:0xc90222dde540bb80!2sHengl+-+Haselbrunner!8m2!3d48.2474156!4d16.3482445!16s%2Fg%2F1vpq5p2p!3m5!1s0x476d0626f98081e5:0xc90222dde540bb80!8m2!3d48.2474156!4d16.3482445!16s%2Fg%2F1vpq5p2p?entry=ttu" target="_blank">Hengl - Haselbrunner</a>.
-
 <br id="Passed"> <br>
 
 ## PASSED EVENTS
+
+### Heuriger
+
+The last Heuriger was on Friday, 10 November 2023 at 6 pm in
+the <a href="https://www.google.com/maps/place/Hengl+-+Haselbrunner/@48.2469298,16.3432663,14z/data=!4m14!1m7!3m6!1s0x476d0626f98081e5:0xc90222dde540bb80!2sHengl+-+Haselbrunner!8m2!3d48.2474156!4d16.3482445!16s%2Fg%2F1vpq5p2p!3m5!1s0x476d0626f98081e5:0xc90222dde540bb80!8m2!3d48.2474156!4d16.3482445!16s%2Fg%2F1vpq5p2p?entry=ttu" target="_blank">Hengl - Haselbrunner</a>.
 
 ### Semester Opening Party
 
