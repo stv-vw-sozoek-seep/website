@@ -140,8 +140,8 @@ Econ Introduction</a>
 SEEP Introduction</a>
 <br><a href="/guides/Guide_SozOek_Overview.pdf" target="_blank">Guide:
 SozÖk Einführung</a>
-<br><a href="/guides/Guide_SozOek_Erfahrungsbericht.pdf" target="_blank">Guide:
-SozÖk Erfahrungsbericht</a>
+<br><a href="/guides/Guide_SozOek_Erfahrungsberichte.pdf" target="_blank">Guide:
+SozÖk Erfahrungsberichte</a>
 
 ### How to apply to the study programs?
 
