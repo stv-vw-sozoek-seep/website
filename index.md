@@ -120,9 +120,9 @@ You can also use the Master Student' Room (Stufenraum) as a common room. Please 
 
 ### Plenary sessions (bi-weekly)
 
-Our plenary sessions will be held every 1st and 3rd Tuesday each month
+Our plenary sessions will be held every second Monday
 at 3 pm in [D4.1.208](https://campus.wu.ac.at/?campus=1&q=D4.1.208).
-![](plenary_winter2324.jpg)
+![](plenary_summer24.jpg)
 
 <br id="Guides"> <br>
 
