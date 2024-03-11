@@ -114,7 +114,7 @@ or visit us at the
 <a href="https://campus.wu.ac.at/?campus=1&q=D4.1.208" target="_blank">Master
 Student' Room</a>.
 
-You can also use the Master Student' Room (Stufenraum) as a common room. Please check out the <a href="https://docs.google.com/spreadsheets/d/1EFx-UTmWcXeTw9wES8Oimnz1_04socH4mxdg0tBwAYE/edit#gid=639866271">timetable</a> and see what events are taking place there.
+You can also use the Master Student' Room (Stufenraum) as a common room. Please check out the <a href="https://docs.google.com/spreadsheets/d/1EFx-UTmWcXeTw9wES8Oimnz1_04socH4mxdg0tBwAYE/edit#gid=1626603027">timetable</a> and see what events are taking place there.
 
 <br id="Plenary"> <br>
 
@@ -180,24 +180,24 @@ Residence Permit</a>
 
 ## UPCOMING EVENTS
 
-### Movie Evening with Glühwein
-
-We invite our Master's program students to a movie night in the Stufenraum. On Wednesday, November 29th at 6pm we will watch the documentation "Das laute Frühlicht" in German with English subtitles and serve mulled wine for coziness. Please bring your own cup :)
-
 ### R Tutorials for Women\*
 
-We have organized an R-Tutorial for women*! This tutorial is open for everybody defining themselves as FLINT* (female, lesbian, inter, non-binary, trans). University is often very male-dominated. With this tutorial we want to explicitly support women*/FLINT* in these important fields. Please register <a href="https://docs.google.com/forms/d/1AMae6TQ4oEzsr4Uuiu1j51kKg7F-xnwfKQtW-zvOCc4/edit" target="_blank">here</a> if you want to join. 
+We have organized an R-Tutorial for women*! This tutorial is open for everybody defining themselves as FLINT* (female, lesbian, inter, non-binary, trans). University is often very male-dominated. With this tutorial we want to explicitly support women*/FLINT* in these important fields. Please register <a href="https://docs.google.com/forms/d/e/1FAIpQLSdP-jz971syNu7Hxt9X6PNt_uT46ZEAqqtQjj0h5kxXixsW1A/viewform" target="_blank">here</a> if you want to join. 
 
 Time: always 17:00 - 19:00 (5pm - 7pm)
 
-  Thursday, November 07 <br>
-  Thursday, November 14 <br>
-  Thursday, December 21 <br>
-  Thursday, December 28 <br>
+  Monday, March 11 <br>
+  Monday, March 18 <br>
+  Thursday, April 8 <br>
+  Monday, May 13 <br>
 
 <br id="Passed"> <br>
 
 ## PASSED EVENTS
+
+### Movie Evening with Glühwein
+
+We invite our Master's program students to a movie night in the Stufenraum. On Wednesday, November 29th at 6pm we will watch the documentation "Das laute Frühlicht" in German with English subtitles and serve mulled wine for coziness. Please bring your own cup :)
 
 ### Heuriger
 
