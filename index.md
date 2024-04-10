@@ -180,6 +180,14 @@ Residence Permit</a>
 
 ## UPCOMING EVENTS
 
+### Please check out our <a href="https://www.instagram.com/stv_vw.sozoek.seep/" target="_blank">Instagram</a> 
+
+## PASSED EVENTS
+
+### Consent Workshop 
+
+Join our consent workshop. It is taking place in the common room on march 20 at 2pm until 5 pm.
+
 ### R Tutorials for Women\*
 
 We have organized an R-Tutorial for women*! This tutorial is open for everybody defining themselves as FLINT* (female, lesbian, inter, non-binary, trans). University is often very male-dominated. With this tutorial we want to explicitly support women*/FLINT* in these important fields. Please register <a href="https://docs.google.com/forms/d/e/1FAIpQLSdP-jz971syNu7Hxt9X6PNt_uT46ZEAqqtQjj0h5kxXixsW1A/viewform" target="_blank">here</a> if you want to join. 
@@ -192,8 +200,6 @@ Time: always 17:00 - 19:00 (5pm - 7pm)
   Monday, May 13 <br>
 
 <br id="Passed"> <br>
-
-## PASSED EVENTS
 
 ### Movie Evening with Glühwein
 
