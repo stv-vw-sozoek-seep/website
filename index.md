@@ -114,7 +114,7 @@ or visit us at the
 <a href="https://campus.wu.ac.at/?campus=1&q=D4.1.208" target="_blank">Master
 Student' Room</a>.
 
-Our Master Student' Room is under construction at the moment. In the future (approximaltely Oct 2025) you can use the new Master Student' Room (Stufenraum) as a common room. Therefore, please check out the <a href="https://docs.google.com/spreadsheets/d/1EFx-UTmWcXeTw9wES8Oimnz1_04socH4mxdg0tBwAYE/edit#gid=1626603027">timetable</a> and see what events are taking place there.
+Our Master Student' Room is under construction at the moment. In the future (approximately Oct 2025) you can use the new Master Student' Room (Stufenraum) as a common room. Therefore, please check out the <a href="https://docs.google.com/spreadsheets/d/1EFx-UTmWcXeTw9wES8Oimnz1_04socH4mxdg0tBwAYE/edit#gid=1626603027">timetable</a> and see what events are taking place there.
 
 <br id="Plenary"> <br>
 
