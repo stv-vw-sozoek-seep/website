@@ -122,8 +122,7 @@ Our Master Student' Room is under construction at the moment. In the future (app
 
 Our plenary sessions will be held every second Thursday
 at 7 pm in [D4.0.120](https://campus.wu.ac.at/?campus=1&q=D4.0.120).
-![](plenary_winter2425.jpg)
-
+![](plenary_winter2425.png)
 <br id="Guides"> <br>
 
 ## Student Guides
