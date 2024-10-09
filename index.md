@@ -110,7 +110,7 @@ contact us via
 <a href="mailto:stv-vwsozoekseep@wu.ac.at" target="_blank">
 stv-vwsozoekseep [at] wu.ac.at</a>
 
-or visit us at the
+or visit us on campus and next year in the new
 <a href="https://campus.wu.ac.at/?campus=1&q=D4.1.208" target="_blank">Master
 Student' Room</a>.
 
@@ -122,7 +122,7 @@ Our Master Student' Room is under construction at the moment. In the future (app
 
 Our plenary sessions will be held every second Thursday
 at 7 pm in [D4.0.120](https://campus.wu.ac.at/?campus=1&q=D4.0.120).
-![](plenary_summer24.jpg)
+![](plenary_winter2425.jpg)
 
 <br id="Guides"> <br>
 
