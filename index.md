@@ -91,13 +91,7 @@ editor_options:
 
 # The Team
 
-![](team_2023.JPG)
-
-<center>Sarah, Lea, Nino, Susann & Max</center>
-
-<br>
-
-More about [us](./Welcome event.pdf).
+About [us](./Welcome event.pdf).
 
 Also check out our
 <a href="https://www.facebook.com/vwsozoekseep/" target="_blank">facebook
@@ -120,10 +114,7 @@ Our Master Student' Room is under construction at the moment. In the future (app
 
 ### Plenary sessions (bi-weekly)
 
-Our plenary sessions will be held every second Thursday
-at 7 pm in [D4.0.120](https://campus.wu.ac.at/?campus=1&q=D4.0.120).
-![](plenary_winter2425.png)
-<br id="Guides"> <br>
+Our plenary sessions will be held every second week. Please check our Instagram for further information.
 
 ## Student Guides
 
