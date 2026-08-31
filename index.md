@@ -1,353 +1,537 @@
 ---
-editor_options: 
-  markdown: 
+editor_options:
+  markdown:
     wrap: 72
 ---
 
-<link rel="stylesheet"   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-
 <style>
-/* Add a black background color to the top navigation */
+:root {
+  --stv-coral: #f64f60;
+  --stv-coral-dark: #d93d4e;
+  --stv-ink: #222126;
+  --stv-muted: #66616b;
+  --stv-paper: #fffafa;
+  --stv-line: #eadfe1;
+  --stv-shadow: 0 12px 32px rgba(55, 35, 40, 0.09);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
 .topnav {
-  background-color: white;
-  overflow: hidden;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid var(--stv-line);
+  border-radius: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-bottom: 28px;
+  padding: 7px;
+  position: sticky;
+  top: 12px;
+  z-index: 10;
 }
 
-/* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
-  color: black;
-  text-align: center;
-  padding: 14px 16px;
+  border-radius: 9px;
+  color: var(--stv-ink);
+  font-size: 15px;
+  font-weight: 600;
+  padding: 9px 12px;
   text-decoration: none;
-  font-size: 17px;
+  transition: background 150ms ease, color 150ms ease;
 }
 
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #f64f60;
-  color: black;
+.topnav a:hover,
+.topnav a:focus {
+  background: #fff0f2;
+  color: var(--stv-coral-dark);
 }
 
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #f64f60;
-  color: black;
+.topnav .instagram-nav {
+  background: var(--stv-coral);
+  color: white;
+  margin-left: auto;
 }
 
-/* Hide the link that should open and close the topnav on small screens */
-.topnav .icon {
+.topnav .instagram-nav:hover,
+.topnav .instagram-nav:focus {
+  background: var(--stv-coral-dark);
+  color: white;
+}
+
+.topnav .menu-toggle {
+  background: transparent;
+  border: 0;
+  border-radius: 9px;
+  color: var(--stv-ink);
+  cursor: pointer;
   display: none;
+  font-size: 22px;
+  margin-left: auto;
+  padding: 5px 10px;
 }
 
-@media screen and (max-width: 600px) {
-  .topnav a:not(:first-child) {display: none;}
-  .topnav a.icon {
+.hero-panel {
+  background:
+    radial-gradient(circle at 92% 12%, rgba(246, 79, 96, 0.22), transparent 34%),
+    linear-gradient(135deg, #fff7f8 0%, #ffffff 75%);
+  border: 1px solid var(--stv-line);
+  border-radius: 22px;
+  box-shadow: var(--stv-shadow);
+  margin-bottom: 42px;
+  overflow: hidden;
+  padding: 44px 40px;
+  position: relative;
+}
+
+.eyebrow {
+  color: var(--stv-coral-dark);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.09em;
+  margin: 0 0 12px;
+  text-transform: uppercase;
+}
+
+.hero-panel h1 {
+  color: var(--stv-ink);
+  font-size: clamp(32px, 6vw, 52px);
+  letter-spacing: -0.035em;
+  line-height: 1.04;
+  margin: 0 0 18px;
+  max-width: 680px;
+}
+
+.hero-panel .lead {
+  color: var(--stv-muted);
+  font-size: 18px;
+  line-height: 1.65;
+  margin: 0;
+  max-width: 680px;
+}
+
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 26px;
+}
+
+.stv-button {
+  border: 1px solid var(--stv-coral);
+  border-radius: 999px;
+  display: inline-block;
+  font-weight: 700;
+  padding: 11px 18px;
+  text-decoration: none;
+  transition: transform 150ms ease, box-shadow 150ms ease;
+}
+
+.stv-button:hover,
+.stv-button:focus {
+  box-shadow: 0 7px 18px rgba(246, 79, 96, 0.2);
+  transform: translateY(-1px);
+}
+
+.stv-button.primary {
+  background: var(--stv-coral);
+  color: white;
+}
+
+.stv-button.secondary {
+  background: white;
+  color: var(--stv-coral-dark);
+}
+
+.section-block {
+  scroll-margin-top: 90px;
+  margin: 52px 0;
+}
+
+.section-intro {
+  color: var(--stv-muted);
+  font-size: 17px;
+  line-height: 1.7;
+  max-width: 720px;
+}
+
+.card-grid {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 24px;
+}
+
+.info-card {
+  background: white;
+  border: 1px solid var(--stv-line);
+  border-radius: 16px;
+  padding: 22px;
+}
+
+.info-card h3 {
+  color: var(--stv-ink);
+  font-size: 19px;
+  margin: 0 0 8px;
+}
+
+.info-card p {
+  color: var(--stv-muted);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.instagram-panel {
+  align-items: center;
+  background: var(--stv-ink);
+  border-radius: 20px;
+  color: white;
+  display: grid;
+  gap: 28px;
+  grid-template-columns: 1fr auto;
+  padding: 30px;
+}
+
+.instagram-panel h2 {
+  color: white;
+  margin: 5px 0 10px;
+}
+
+.instagram-panel p {
+  color: #ded9df;
+  line-height: 1.65;
+  margin: 0;
+}
+
+.live-label {
+  align-items: center;
+  color: #ffb9c0;
+  display: flex;
+  font-size: 13px;
+  font-weight: 800;
+  gap: 8px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.live-dot {
+  animation: pulse 1.8s infinite;
+  background: var(--stv-coral);
+  border-radius: 50%;
+  height: 9px;
+  width: 9px;
+}
+
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(246, 79, 96, 0.5); }
+  50% { box-shadow: 0 0 0 7px rgba(246, 79, 96, 0); }
+}
+
+.instagram-handle {
+  background: var(--stv-coral);
+  border-radius: 14px;
+  color: white;
+  display: inline-block;
+  font-size: 17px;
+  font-weight: 800;
+  padding: 15px 19px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.instagram-handle:hover,
+.instagram-handle:focus {
+  background: white;
+  color: var(--stv-coral-dark);
+}
+
+.resource-group {
+  border-top: 1px solid var(--stv-line);
+  padding: 22px 0 8px;
+}
+
+.resource-group h3 {
+  margin-top: 0;
+}
+
+.link-list {
+  display: grid;
+  gap: 8px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.link-list a {
+  background: var(--stv-paper);
+  border-radius: 10px;
+  color: var(--stv-ink);
+  padding: 10px 12px;
+  text-decoration: none;
+}
+
+.link-list a:hover,
+.link-list a:focus {
+  color: var(--stv-coral-dark);
+}
+
+details.archive {
+  border: 1px solid var(--stv-line);
+  border-radius: 14px;
+  margin-top: 14px;
+  padding: 14px 17px;
+}
+
+details.archive summary {
+  color: var(--stv-ink);
+  cursor: pointer;
+  font-weight: 700;
+}
+
+details.archive ul {
+  margin-bottom: 4px;
+}
+
+.contact-panel {
+  background: var(--stv-paper);
+  border-left: 4px solid var(--stv-coral);
+  border-radius: 0 16px 16px 0;
+  padding: 24px 26px;
+}
+
+.contact-panel p:last-child {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 720px) {
+  .hero-panel {
+    padding: 34px 24px;
+  }
+
+  .card-grid,
+  .link-list,
+  .instagram-panel {
+    grid-template-columns: 1fr;
+  }
+
+  .instagram-handle {
+    text-align: center;
+  }
+
+  .topnav {
+    display: block;
+  }
+
+  .topnav .menu-toggle {
+    display: block;
     float: right;
-    display: block;
   }
-}
 
-
-@media screen and (max-width: 600px) {
-  .topnav.responsive {position: relative;}
-  .topnav.responsive .icon {
-    position: absolute;
-    right: 0;
-    top: 0;
+  .topnav a {
+    display: none;
+    margin: 2px 0;
   }
+
   .topnav.responsive a {
-    float: none;
     display: block;
-    text-align: left;
+  }
+
+  .topnav.responsive .instagram-nav {
+    margin-left: 0;
   }
 }
 </style>
 
 <script>
-  function myFunction() {
-  var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
-    x.className += " responsive";
-  } else {
-    x.className = "topnav";
-  }
+function toggleNavigation() {
+  var navigation = document.getElementById("site-navigation");
+  navigation.classList.toggle("responsive");
 }
 </script>
 
-<div class="topnav" id="myTopnav">
-<a href="#Team">About us</a> <a href="#Plenary">Plenary</a>
-<a href="#Guides">Guides</a> <a href="#Events">Upcoming</a>
-<a href="#Passed">Passed</a> <a href="#Standpunkt">Magazine</a>
-<a href="#Reports">ÖH Reports</a>
-<a href="javascript:void(0);" class="icon" onclick="myFunction()">
-<i class="fa fa-bars"></i> </a>
+<nav class="topnav" id="site-navigation" aria-label="Main navigation">
+  <button class="menu-toggle" type="button" onclick="toggleNavigation()"
+    aria-label="Open navigation">☰</button>
+  <a href="#about">About us</a>
+  <a href="#work">What we do</a>
+  <a href="#guides">Guides</a>
+  <a href="#resources">Resources</a>
+  <a href="#contact">Contact</a>
+  <a class="instagram-nav" href="https://www.instagram.com/vw.sozoek.seep/"
+    target="_blank" rel="noopener">Instagram ↗</a>
+</nav>
+
+<div class="hero-panel" id="about">
+  <p class="eyebrow">Your student representatives at WU Vienna</p>
+  <h1>For Economics, Socioeconomics &amp; SEEP students.</h1>
+  <p class="lead">
+    We represent your interests, connect the community and help make your
+    studies more accessible, inclusive and enjoyable. Come to a plenary,
+    share an idea or simply get to know us.
+  </p>
+  <div class="button-row">
+    <a class="stv-button primary" href="https://www.instagram.com/vw.sozoek.seep/"
+      target="_blank" rel="noopener">See current updates on Instagram</a>
+    <a class="stv-button secondary" href="mailto:stv-vwsozoekseep@wu.ac.at">
+      Contact the STV</a>
+  </div>
 </div>
 
-<br id="Team">
-
-<br>
-
-# The Team
-
-About [us](./Welcome event.pdf).
-
-Also check out our
-<a href="https://www.facebook.com/vwsozoekseep/" target="_blank">facebook
-page</a>
-
-follow us on
-<a href="https://www.instagram.com/stv_vw.sozoek.seep/" target="_blank">Instagram</a>
-
-contact us via
-<a href="mailto:stv-vwsozoekseep@wu.ac.at" target="_blank">
-stv-vwsozoekseep [at] wu.ac.at</a>
-
-or visit us on campus and next year in the new
-<a href="https://campus.wu.ac.at/?campus=1&q=D4.1.208" target="_blank">Master
-Student' Room</a>.
-
-Our Master Student' Room is under construction at the moment. In the future (approximately Oct 2025) you can use the new Master Student' Room (Stufenraum) as a common room. Therefore, please check out the <a href="https://docs.google.com/spreadsheets/d/1EFx-UTmWcXeTw9wES8Oimnz1_04socH4mxdg0tBwAYE/edit#gid=1626603027">timetable</a> and see what events are taking place there.
-
-<br id="Plenary"> <br>
-
-### Plenary sessions (bi-weekly)
-
-Our plenary sessions will be held every second week. Please check our Instagram for further information.
-
-## Student Guides
-
-We have created a number of Guides to help you with your studies!
-
-### Which program is the right one for me?
-
-These guides will try to help you decide which program (Econ, SozÖK,
-SEEP) is the right one for you!
-<br><a href="/guides/Guide_Econ_Introduction.pdf" target="_blank">Guide:
-Econ Introduction</a>
-<br><a href="/guides/Guide_SEEP_Introduction.pdf" target="_blank">Guide:
-SEEP Introduction</a>
-<br><a href="/guides/Guide_SozOek_Overview.pdf" target="_blank">Guide:
-SozÖk Einführung</a>
-<br><a href="/guides/Guide_SozOek_Erfahrungsberichte1.pdf" target="_blank">Guide:
-SozÖk Erfahrungsberichte</a>
-
-### How to apply to the study programs?
-
-These guides will lead you through the application process for Economics
-and SEEP. Sozioökonomie does not have a special application process at
-the moment.
-<br><a href="/guides/Guide_Econ_Application.pdf" target="_blank">Guide:
-Econ Application</a>
-<br><a href="/guides/Guide_SEEP_Application.pdf" target="_blank">Guide:
-SEEP Application</a>
-
-### How to write your master thesis?
-
-These guides will introduce you to the topic of writing your master
-thesis. We have compiled a few tips and tricks on how to get started in
-each of the programs.<br>
-<a href="/guides/Guide_Econ_Master_Thesis.pdf" target="_blank">Guide:
-Econ Master Thesis</a> <br>
-<a href="/guides/Guide_SEEP_Master_Thesis.pdf" target="_blank">Guide:
-SEEP Master Thesis</a>
-
-### General Guides (Academic Writing, Residence Permit, Semester Abroad)
-
-The following guides deal with the topic of a semester abroad in each of
-the Master programs as well as the general topics of scientific and
-academic writing as well as how to get a residence permit if you are a
-third country national. <br>
-<a href="/guides/Guide_Semester_Abroad.pdf" target="_blank">Guide:
-Semester Abroad</a> <br>
-<a href="/guides/Guide_Academic_Writing.pdf" target="_blank">Guide:
-Academic Writing</a> <br>
-<a href="/guides/Guide_Residence_Permit.pdf" target="_blank">Guide:
-Residence Permit</a>
-
-<br id="Events"> <br>
-
-## UPCOMING EVENTS
-
-### Please check out our <a href="https://www.instagram.com/stv_vw.sozoek.seep/" target="_blank">Instagram</a> 
-
-## PASSED EVENTS
-
-### Consent Workshop 
-
-Join our consent workshop. It is taking place in the common room on march 20 at 2pm until 5 pm.
-
-### R Tutorials for Women\*
-
-We have organized an R-Tutorial for women*! This tutorial is open for everybody defining themselves as FLINT* (female, lesbian, inter, non-binary, trans). University is often very male-dominated. With this tutorial we want to explicitly support women*/FLINT* in these important fields. Please register <a href="https://docs.google.com/forms/d/e/1FAIpQLSdP-jz971syNu7Hxt9X6PNt_uT46ZEAqqtQjj0h5kxXixsW1A/viewform" target="_blank">here</a> if you want to join. 
-
-Time: always 17:00 - 19:00 (5pm - 7pm)
-
-  Monday, March 11 <br>
-  Monday, March 18 <br>
-  Thursday, April 8 <br>
-  Monday, May 13 <br>
-
-<br id="Passed"> <br>
-
-### Movie Evening with Glühwein
-
-We invite our Master's program students to a movie night in the Stufenraum. On Wednesday, November 29th at 6pm we will watch the documentation "Das laute Frühlicht" in German with English subtitles and serve mulled wine for coziness. Please bring your own cup :)
-
-### Heuriger
-
-The last Heuriger was on Friday, 10 November 2023 at 6 pm in
-the <a href="https://www.google.com/maps/place/Hengl+-+Haselbrunner/@48.2469298,16.3432663,14z/data=!4m14!1m7!3m6!1s0x476d0626f98081e5:0xc90222dde540bb80!2sHengl+-+Haselbrunner!8m2!3d48.2474156!4d16.3482445!16s%2Fg%2F1vpq5p2p!3m5!1s0x476d0626f98081e5:0xc90222dde540bb80!8m2!3d48.2474156!4d16.3482445!16s%2Fg%2F1vpq5p2p?entry=ttu" target="_blank">Hengl - Haselbrunner</a>.
-
-### Semester Opening Party
-
-We are excited to meet current and the new cohorts at the semester
-opening Party. It will take place in the [Club
-U](https://www.google.com/maps/place/Club+U/@48.2001424,16.3682486,17z/data=!3m1!4b1!4m6!3m5!1s0x476d0782d36eb3eb:0xed028069cfa9015b!8m2!3d48.2001424!4d16.3708235!16s%2Fg%2F11b6__r8rp?entry=ttu)
-on the 6th of October 2023 at 10 pm.
-
-### R Tutorials for Women\*
-
-We have once again organized an R-Tutorial for women\*! This tutorial is
-open for everybody defining themselves as FLINT\* (female, lesbian,
-non-binary, trans). University is often very male-dominated. With this
-tutorial we want to explicitly support women\*/FLINT\* in these
-important fields. Please register via Mail: stv-vwsozoekseep [at]
-wu.ac.at and check the
-[FB-Event](https://www.facebook.com/events/838838533536224/) for
-Updates.
-
-Time: always 17:00 - 19:00 (5pm - 7pm)
-
--   Thursday, November 11
--   Thursday, November 26
--   Thursday, December 3
--   Thursday, December 10
-
-### Welcome Event Master Economics.Socio-Economics.SEEP
-
-We are excited to meet the new cohort at the welcome event of the 
-Master's programmes. You can find our presentation [here](./presi.pdf).
-
-### R Tutorials (free of charge - free to join)
-
-Time: always 18:00 - 20:00 (6pm - 8pm)
-
--   Monday, October 19
--   Monday, November 2
--   Monday, November 9
--   Monday, November 16
-
-[Gitlab](https://gitlab.com/r-students-WU/tutorial-winter-2020) <br>[MS
-Teams](https://teams.microsoft.com/l/channel/19%3a327200012dc14dbd841564f7381a0037%40thread.tacv2/General?groupId=7c500954-683b-4f5f-9ed0-78a687c4f8d6&tenantId=0504f721-d451-402b-b884-381428559e39)
-
-### COVID 19 Distance Learning Survey
-
-How is distance learning going so far? What needs to be improved? We, as
-your elected student representatives want to ensure that this semester,
-even with the limitations, can still be without negative effects for
-you. We therefore ask you for your feedback on the distance learning,
-which we will forward to the program coordinators.
-
-Take part in our [Survey!](https://forms.gle/KdA7jY7Qjnd55Di49)
-
-### VW Heuriger
-
-The next VW Heuriger will be on <del>Friday, 20 March 2020 at 6 p.m. at
-the 10er Marie. See
-[FB-Event](https://www.facebook.com/events/809146516163428/) </del>
-Unfortunately this event was cancelled due to the
-[COVID-19](https://coronavirus.wien.gv.at/site/faq-english/) Outbreak.
-
-### Momentum Junior Fellowship Program
-
-The Momentum Institute's Junior Fellowship Program offers the
-opportunity to write master's and doctoral theses in areas such as work,
-fiscal policy, environment - with professional and financial support:
-[Apply now!](https://www.momentum-institut.at/junior-fellowship-themen)
-
-### Punsch & Plenum \| Punch & Plenary
-
-It's that time again - we're celebrating the end of the year! We're
-therefore very happy to invite you to punch and cookies, in our
-Econ.SocEcon.SEEP Room in D4. There will be punch as long as it lasts -
-at 19:30 we will go to the Punschstände in front of LC. We will also use
-the time to discuss projects and ideas for the next year. We're very
-much looking forward to seeing you there!
-[Event](https://www.facebook.com/events/1005659323120801/)
-
-<br id="Standpunkt"> <br>
-
-## Standpunkte
-
-**"Let's talk about Economics - Perceptions in Media and Society"**
-Issue 18 \| March 2020 \| [PDF](./standpunkte/Standpunkte_18.pdf)
-
-**"Die Ökonomie als Wissenschaft"** Ausgabe Nummer 17 \| Juni 2019 \|
-[PDF](./standpunkte/Standpunkte_17_3_.pdf)
-
-**"Arbeitsverhältnisse"** Ausgabe Nummer 16 \| Mai 2018 \|
-[PDF](./standpunkte/Standpunkte16_Final1.pdf)
-
-**"Nachhaltigkeit."** Ausgabe Nummer 15 Oktober 2017 \|
-[PDF](./standpunkte/Standpunkte15.pdf)
-
-**"Die verlorene Ausgabe - Die Standpunkte sind zurück"** Ausgabe Nummer
-14 \| März 2017 \| [PDF](./standpunkte/Standpunkte_14-Aktuell.pdf)
-**"Volldampf Voraus! - Wege aus der Krise"** Ausgabe Nummer 13 \| April
-2015 \| [PDF](./standpunkte/Standpunkte13_-_Volldampf_Voraus.pdf)
-
-**"Mit vielen Brillen - Ökonomie als plurale Wissenschaft"** Ausgabe
-Nummer 12 \| Mai 2014 \| [PDF](./standpunkte/standpunkte12_05-2014.pdf)
-
-**"Was kostet die Welt? - Wie bewertet man das Unbezahlbare?"** Ausgabe
-Nummer 11 \| November 2012 \|
-[PDF](./standpunkte/standpunkte11_11-2012.pdf)
-
-**"Spaziergang um den Tellerrand - Ökonomische Kritik und
-Alternativen"** Ausgabe Nummer 10 \| Februar 2012 \|
-[PDF](./standpunkte/standpunkte10_02-2012.pdf)
-
-**"Backe, Backe Kuchen - die Ökonomie hat gerufen: Rezepte zur
-Zukunft"** Ausgabe Nummer 9 \| Oktober 2011 \|
-[PDF](./standpunkte/standpunkte9_10-2011.pdf)
-
-**"Schmerzfrei Wachsen - Nachhaltigkeit aus ökonomischer Perspektive"**
-Ausgabe Nummer 8 \| März 2011 \|
-[PDF](./standpunkte/standpunkte8_03-2011.pdf)
-
-**"Business Needs Banking - Banken, Geld, Kredite: Eine unendliche
-Geschichte"** Ausgabe Nummer 7 \| Juni 2010 \|
-[PDF](./standpunkte/standpunkte7_06-2010.pdf)
-
-**"Bachelor of Multiple Choice - Bildung und Ökonomie"** Ausgabe Nummer
-6 \| März 2010 \| [PDF](./standpunkte/standpunkte6-03-2010.pdf)
-
-**"Der Turm stürzt ein! - Schwerpunkt Finanz- und Wirtschaftskrise"**
-Ausgabe Nummer 5 \| Jänner 2009 \|
-[PDF](./standpunkte/standpunkte5_01-2009.pdf)
-
-**"Eine Frage der Verteilung - Aspekte der Einkommensverteilung in
-Österreich"** Ausgabe Nummer 4 \| Juni 2008 \|
-[PDF](./standpunkte/standpunkte4_06-2008.pdf)
-
-**"Wealth of Nations? - Möglichkeiten und Hindernisse der Finanzierung
-internationaler Entwicklung"** Ausgabe Nummer 3 \| März 2008 \|
-[PDF](./standpunkte/standpunkte3_03-2008.pdf)
-
-**"Wohin geht die EU? - Überlegungen zu ökonomischen und politischen
-Herausforderungen der europäischen Integration"** Ausgabe Nummer 2 \|
-November 2007 \| [PDF](./standpunkte/standpunkte2_11-2007.pdf)
-
-**"Sind Österreichs Reiche zu arm? - Die Debatte um die Abschaffung der
-Erbschaftssteuer"** Ausgabe Nummer 1 \| Mai 2007 \|
-[PDF](./standpunkte/standpunkte1_05-2007.pdf)
-
-<br id="Reports"> <br>
-
-## Our reports to the University Representation (ÖH)
-
-ÖH Report Wintersemester 18/19 [PDF](./uv/uv_bericht_ws_18_19.pdf) <br/>
-ÖH Report Wintersemester 19/20 - 1 [PDF](./uv/1UVWise1920.pdf) <br/> ÖH
-Report Wintersemester 19/20 - 2 [PDF](./uv/2UVWise1920.pdf) <br/>
+<section class="section-block" id="work">
+
+## What we do
+
+<p class="section-intro">
+  Our work grows out of the questions, ideas and needs of students in the
+  three master's programmes. These are some of the ways we support the
+  community throughout the academic year.
+</p>
+
+<div class="card-grid">
+  <div class="info-card">
+    <h3>Student representation</h3>
+    <p>We bring student perspectives into conversations with programme
+    coordinators, departments and university bodies.</p>
+  </div>
+  <div class="info-card">
+    <h3>Open plenaries</h3>
+    <p>Our meetings are open to students who want to raise a concern,
+    contribute an idea, help with a project or learn how the STV works.</p>
+  </div>
+  <div class="info-card">
+    <h3>Study support</h3>
+    <p>We share practical guides, answer questions and organise learning
+    opportunities such as R tutorials and other skills-based workshops.</p>
+  </div>
+  <div class="info-card">
+    <h3>Community &amp; connection</h3>
+    <p>We create spaces to meet across programmes through semester gatherings,
+    informal outings, parties and relaxed events in and around the common room.</p>
+  </div>
+  <div class="info-card">
+    <h3>Inclusive spaces</h3>
+    <p>We support initiatives that make university more welcoming, including
+    safer learning environments and dedicated formats for FLINTA* students.</p>
+  </div>
+  <div class="info-card">
+    <h3>Ideas from students</h3>
+    <p>Have a workshop, event or advocacy idea? We can help develop it, connect
+    you with others and explore how the STV can support it.</p>
+  </div>
+</div>
+</section>
+
+<section class="section-block" id="instagram">
+  <div class="instagram-panel">
+    <div>
+      <div class="live-label"><span class="live-dot"></span> Live updates</div>
+      <h2>Instagram is our noticeboard</h2>
+      <p>Event announcements, plenary details, registrations and other
+      time-sensitive information are published on Instagram. Follow the account
+      to see the current feed and avoid relying on outdated dates here.</p>
+    </div>
+    <a class="instagram-handle" href="https://www.instagram.com/vw.sozoek.seep/"
+      target="_blank" rel="noopener">@vw.sozoek.seep ↗</a>
+  </div>
+</section>
+
+<section class="section-block" id="guides">
+
+## Student guides
+
+<p class="section-intro">
+  Our guides collect practical information for choosing a programme, applying,
+  writing a thesis and navigating everyday student life.
+</p>
+
+<div class="resource-group">
+  <h3>Choosing a programme</h3>
+  <div class="link-list">
+    <a href="./guides/Guide_Econ_Introduction.pdf" target="_blank">Economics introduction ↗</a>
+    <a href="./guides/Guide_SEEP_Introduction.pdf" target="_blank">SEEP introduction ↗</a>
+    <a href="./guides/Guide_SozOek_Overview.pdf" target="_blank">Sozioökonomie introduction ↗</a>
+    <a href="./guides/Guide_SozOek_Erfahrungsberichte1.pdf" target="_blank">Sozioökonomie experiences ↗</a>
+  </div>
+</div>
+
+<div class="resource-group">
+  <h3>Applications &amp; theses</h3>
+  <div class="link-list">
+    <a href="./guides/Guide_Econ_Application.pdf" target="_blank">Economics application ↗</a>
+    <a href="./guides/Guide_SEEP_Application.pdf" target="_blank">SEEP application ↗</a>
+    <a href="./guides/Guide_Econ_Master_Thesis.pdf" target="_blank">Economics master's thesis ↗</a>
+    <a href="./guides/Guide_SEEP_Master_Thesis.pdf" target="_blank">SEEP master's thesis ↗</a>
+  </div>
+</div>
+
+<div class="resource-group">
+  <h3>General study support</h3>
+  <div class="link-list">
+    <a href="./guides/Guide_Semester_Abroad.pdf" target="_blank">Semester abroad ↗</a>
+    <a href="./guides/Guide_Academic_Writing.pdf" target="_blank">Academic writing ↗</a>
+    <a href="./guides/Guide_Residence_Permit.pdf" target="_blank">Residence permit ↗</a>
+  </div>
+</div>
+</section>
+
+<section class="section-block" id="resources">
+
+## Community resources
+
+<p class="section-intro">
+  Explore publications and reports created by earlier student representatives
+  and members of the Economics, Socioeconomics and SEEP community.
+</p>
+
+<details class="archive">
+  <summary>Standpunkte magazine archive</summary>
+  <ul>
+    <li><a href="./standpunkte/Standpunkte_18.pdf">Let's talk about Economics — Issue 18</a></li>
+    <li><a href="./standpunkte/Standpunkte_17_3_.pdf">Die Ökonomie als Wissenschaft — Issue 17</a></li>
+    <li><a href="./standpunkte/Standpunkte16_Final1.pdf">Arbeitsverhältnisse — Issue 16</a></li>
+    <li><a href="./standpunkte/Standpunkte15.pdf">Nachhaltigkeit — Issue 15</a></li>
+    <li><a href="./standpunkte/Standpunkte_14-Aktuell.pdf">Die verlorene Ausgabe — Issue 14</a></li>
+    <li><a href="./standpunkte/Standpunkte13_-_Volldampf_Voraus.pdf">Volldampf voraus! — Issue 13</a></li>
+    <li><a href="./standpunkte/standpunkte12_05-2014.pdf">Mit vielen Brillen — Issue 12</a></li>
+    <li><a href="./standpunkte/standpunkte11_11-2012.pdf">Was kostet die Welt? — Issue 11</a></li>
+    <li><a href="./standpunkte/standpunkte10_02-2012.pdf">Spaziergang um den Tellerrand — Issue 10</a></li>
+    <li><a href="./standpunkte/standpunkte9_10-2011.pdf">Backe, Backe Kuchen — Issue 9</a></li>
+    <li><a href="./standpunkte/standpunkte8_03-2011.pdf">Schmerzfrei Wachsen — Issue 8</a></li>
+    <li><a href="./standpunkte/standpunkte7_06-2010.pdf">Business Needs Banking — Issue 7</a></li>
+    <li><a href="./standpunkte/standpunkte6-03-2010.pdf">Bachelor of Multiple Choice — Issue 6</a></li>
+    <li><a href="./standpunkte/standpunkte5_01-2009.pdf">Der Turm stürzt ein! — Issue 5</a></li>
+    <li><a href="./standpunkte/standpunkte4_06-2008.pdf">Eine Frage der Verteilung — Issue 4</a></li>
+    <li><a href="./standpunkte/standpunkte3_03-2008.pdf">Wealth of Nations? — Issue 3</a></li>
+    <li><a href="./standpunkte/standpunkte2_11-2007.pdf">Wohin geht die EU? — Issue 2</a></li>
+    <li><a href="./standpunkte/standpunkte1_05-2007.pdf">Sind Österreichs Reiche zu arm? — Issue 1</a></li>
+  </ul>
+</details>
+
+<details class="archive">
+  <summary>Reports to the University Representation (ÖH)</summary>
+  <ul>
+    <li><a href="./uv/uv_bericht_ws_18_19.pdf">STV report — archive A</a></li>
+    <li><a href="./uv/1UVWise1920.pdf">STV report — archive B</a></li>
+    <li><a href="./uv/2UVWise1920.pdf">STV report — archive C</a></li>
+  </ul>
+</details>
+</section>
+
+<section class="section-block" id="contact">
+
+## Talk to us
+
+<div class="contact-panel">
+  <p><strong>Email:</strong>
+    <a href="mailto:stv-vwsozoekseep@wu.ac.at">stv-vwsozoekseep [at] wu.ac.at</a>
+  </p>
+  <p><strong>Instagram:</strong>
+    <a href="https://www.instagram.com/vw.sozoek.seep/" target="_blank"
+      rel="noopener">@vw.sozoek.seep</a>
+  </p>
+  <p><strong>On campus:</strong> You can also find us and many of our activities
+    around the common room in building D4. Check Instagram for current access,
+    meeting and event information.</p>
+</div>
+</section>
