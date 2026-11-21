@@ -83,6 +83,7 @@ Issue 18 \| March 2020 \| [PDF](./archive/standpunkte/Standpunkte_18.pdf)
 
 **"Die verlorene Ausgabe - Die Standpunkte sind zurück"** Ausgabe Nummer
 14 \| März 2017 \| [PDF](./archive/standpunkte/Standpunkte_14-Aktuell.pdf)
+
 **"Volldampf Voraus! - Wege aus der Krise"** Ausgabe Nummer 13 \| April
 2015 \| [PDF](./archive/standpunkte/Standpunkte13_-_Volldampf_Voraus.pdf)
 
