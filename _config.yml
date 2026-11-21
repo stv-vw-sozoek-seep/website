@@ -1,4 +1,7 @@
-theme: jekyll-theme-minimal
-logo: logo.jpg
 title: Studienvertretung VW-SozÖk-SEEP
+description: Student representation for the master's programmes Economics, Socioeconomics and SEEP.
+logo: /logo.jpg
 show_downloads: false
+exclude:
+  - archive/original-source
+  - archive/rstudio-state
