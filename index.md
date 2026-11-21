@@ -8,7 +8,7 @@ title: Studienvertretung VW · SozÖk · SEEP
 
 ## About the StV
 
-The Studienvertretung (StV) represents students in the Economics, Socioeconomics and SEEP master's programmes. We support students with questions about their studies, share information and bring student perspectives into discussions about the programmes.
+The Studienvertretung (StV) is the elected representation of students in the Economics, Socioeconomics and SEEP master’s programmes. We bring student concerns into university committees, answer questions about studying, and support students in disputes. We also bring students together through open meetings, events, lectures and tutorials.
 
 Contact us by email at <a href="mailto:stv-vwsozoekseep@wu.ac.at">stv-vwsozoekseep@wu.ac.at</a> or on <a href="https://www.instagram.com/vw.sozoek.seep/" target="_blank" rel="noopener">Instagram ↗</a>.
 
