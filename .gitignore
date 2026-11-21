@@ -1,7 +1,6 @@
-# html-file für previews
-# mit stern werden alle html files ignoriert
-# alternativ index.html
-*.html
+# Ignore generated HTML previews in the repository root.
+# Jekyll templates in _layouts/ are part of the site and must be tracked.
+/*.html
 
 # History files
 .Rhistory
@@ -336,3 +335,9 @@ TSWLatexianTemp*
 
 # custom
 *.RData
+
+# Jekyll's local build cache
+.jekyll-cache/
+
+# Finder metadata is local-only.
+**/.DS_Store
